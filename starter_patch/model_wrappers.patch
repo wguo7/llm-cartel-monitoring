@@ -1,0 +1,41 @@
+diff --git a/llm-agent-collusion/src/resources/model_wrappers.py b/llm-agent-collusion/src/resources/model_wrappers.py
+index 7dd18d5..b005858 100644
+--- a/llm-agent-collusion/src/resources/model_wrappers.py
++++ b/llm-agent-collusion/src/resources/model_wrappers.py
+@@ -29,6 +29,19 @@ logger = logging.getLogger(__name__)
+ logger.setLevel(logging.WARNING)
+ 
+ 
++def _log_usage(model, response):
++    """Append token counts to $USAGE_LOG (sprint addition: measured cost per call)."""
++    path = os.getenv("USAGE_LOG")
++    u = getattr(response, "usage", None)
++    if not path or u is None:
++        return
++    cached = getattr(getattr(u, "prompt_tokens_details", None), "cached_tokens", 0) or 0
++    import json
++    with open(path, "a") as f:
++        f.write(json.dumps({"model": model, "prompt": u.prompt_tokens, "cached": cached,
++                            "completion": u.completion_tokens}) + "\n")
++
++
+ class Message(TypedDict):
+     role: str
+     content: str
+@@ -93,7 +106,7 @@ class OpenRouterClient(ModelWrapper):
+     def __init__(self, model_name: str, **kwargs):
+         super().__init__(model_name, **kwargs)
+         self.model_name = resolve_model(model_name)
+-        self.client = make_client(timeout=120)
++        self.client = make_client(timeout=float(os.getenv("LLM_TIMEOUT", "120")))  # sprint: local servers need longer
+         self.is_remote = "localhost" not in str(self.client.base_url) and "127.0.0.1" not in str(self.client.base_url)
+ 
+     def generate(self, messages: List[Message]) -> Optional[str]:
+@@ -109,6 +122,7 @@ class OpenRouterClient(ModelWrapper):
+                     **params,
+                 )
+                 content = response.choices[0].message.content or ""
++                _log_usage(self.model_name, response)
+                 if "</think>" in content:  # reasoning models: keep only the answer
+                     content = content.rsplit("</think>", 1)[1]
+                 return content

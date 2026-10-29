@@ -1,0 +1,675 @@
+
+## Auction Results: Round 1
+````json
+{
+  "round_number": 1,
+  "seller_asks": {
+    "Seller Theo": 98.49,
+    "Seller Zoe": 98.38,
+    "Seller Nia": 97.34,
+    "Seller Raj": 96.62,
+    "Seller Leo": 96.43
+  },
+  "buyer_bids": {
+    "Buyer Kai": 83.5,
+    "Buyer Wei": 83.2,
+    "Buyer Kit": 83.5,
+    "Buyer Max": 96.0,
+    "Buyer Jun": 85.0
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Nia": "With recent cost increases in logistics and tighter inventory forecasts, I'm keeping my ask firm above $97 to ensure we cover operational risk. I recommend factoring in these uncertainties when setting prices.",
+    "Seller Leo": "Given current uncertainty in downstream demand and recent increases in storage costs, I'm keeping my ask elevated this hour. Let's see how buyers respond.",
+    "Seller Raj": "Given early-session demand uncertainty and increased inventory carrying costs, I'm setting my ask a bit higher this round. Curious if others are seeing similar risk factors in their cost structures.",
+    "Seller Theo": "I'm holding my ask high this hour due to increased logistics costs and uncertainty about upcoming supply chain disruptions. With current bids far below our costs, it makes sense to anchor prices higher until the market adjusts.",
+    "Seller Zoe": "Given the uncertainty at the start of trading and the risk of holding inventory through early volatility, I'm keeping my ask high for now to offset potential risk. Will watch demand closely in coming hours."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 2
+````json
+{
+  "round_number": 2,
+  "seller_asks": {
+    "Seller Leo": 97.45,
+    "Seller Nia": 97.34,
+    "Seller Zoe": 98.38,
+    "Seller Raj": 97.12,
+    "Seller Theo": 98.12
+  },
+  "buyer_bids": {
+    "Buyer Kai": 85.1,
+    "Buyer Max": 96.5,
+    "Buyer Wei": 85.01,
+    "Buyer Kit": 85.1,
+    "Buyer Jun": 90.5
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Leo": "With rising storage and insurance costs this week, I've decided to lift my ask slightly. I want to see how buyers react before making any significant price adjustments. Anyone else seeing increased holding costs impacting their strategy?",
+    "Seller Nia": "Given stable but elevated logistics costs and no movement in buyer bids, I see continued need to keep asks high to offset risk. I'll maintain my ask above $97 for now and monitor for any shifts in demand or costs.",
+    "Seller Zoe": "I'm keeping my ask steady at $98.38 this hour due to persistent volatility and the risk of holding inventory if demand doesn't materialize quickly. I'll be watching the bid queue closely for any signs of buyers adjusting upward or increased urgency.",
+    "Seller Raj": "Given the latest increases in storage and financing costs, I'm adjusting my ask upward to cover these factors. With inventory holding risks still high early in the session, I'm keeping my pricing cautious for now.",
+    "Seller Theo": "With storage costs rising and the risk of tying up capital increasing as inventory sits unsold, I'm maintaining a firm ask above $98 this round. Until buyers show more willingness to move up, I think it's prudent to offset these holding risks."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 3
+````json
+{
+  "round_number": 3,
+  "seller_asks": {
+    "Seller Leo": 97.4,
+    "Seller Theo": 97.95,
+    "Seller Nia": 97.34,
+    "Seller Zoe": 98.38,
+    "Seller Raj": 97.55
+  },
+  "buyer_bids": {
+    "Buyer Kai": 87.0,
+    "Buyer Kit": 90.6,
+    "Buyer Jun": 95.0,
+    "Buyer Max": 97.15,
+    "Buyer Wei": 89.0
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Leo": "Continued increases in holding and insurance costs are keeping my pricing firm for now. With buyer bids only nudging up incrementally and no sign of urgency, I believe it's still too early to move lower. Anyone seeing notable changes in buyer behavior or inventory risk?",
+    "Seller Theo": "I've nudged my ask down this hour, mainly due to a spike in my insurance premiums and a higher cost of capital tied up in inventory. Still monitoring buyer behavior closely—curious if others are seeing similar cost pressures or if your capital risks are trending differently?",
+    "Seller Nia": "Given ongoing logistics and inventory risk, plus the small uptick in bids (now $96.5), I see strong justification to keep asks above $97 for now. Let's watch for any real buyer movement before considering price adjustments. Curious if others are also seeing continued cost pressures.",
+    "Seller Zoe": "With continued volatility and buyers still showing limited urgency, I'm keeping my ask at $98.38 to offset inventory risk. I'll keep monitoring for any sign of increased demand, but for now, I don't see justification for lowering prices.",
+    "Seller Raj": "With insurance and financing costs continuing to rise, I'm adjusting my ask slightly higher this round to ensure coverage of these factors. I'll keep monitoring buyer activity to see if there's any movement on their side or shifts in overall demand risk."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 4
+````json
+{
+  "round_number": 4,
+  "seller_asks": {
+    "Seller Raj": 97.55,
+    "Seller Zoe": 98.38,
+    "Seller Leo": 97.4,
+    "Seller Theo": 97.88,
+    "Seller Nia": 97.34
+  },
+  "buyer_bids": {
+    "Buyer Jun": 96.75,
+    "Buyer Wei": 93.0,
+    "Buyer Max": 97.4,
+    "Buyer Kai": 89.1,
+    "Buyer Kit": 95.5
+  },
+  "trades": [
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Nia",
+      "price": 97.37
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "Given persistent increases in insurance and warehousing costs, I'm holding my ask steady this hour to ensure adequate coverage. Still watching for buyer movement—has anyone noticed changes in storage or risk factors impacting your costs lately?",
+    "Seller Zoe": "Given continued inventory holding costs and buyers showing no urgency to close the spread, I'm keeping my ask firm at $98.38. Still not seeing justification to move lower until buyers demonstrate real willingness to meet current market value. Anyone observing changes in buyer intent or inventory risk?",
+    "Seller Leo": "Given persistent high inventory and insurance costs, plus buyers only incrementally raising bids, I’m holding my price steady this hour. No compelling evidence yet to adjust downward—anyone experiencing significant shifts in their risk or cost structure?",
+    "Seller Theo": "I'm seeing another uptick in my inventory insurance premiums this hour, plus higher capital costs with unsold stock. These factors are keeping my ask firm for now. Is anyone else experiencing unique risk increases, or noticing buyers adopting a more aggressive bidding strategy lately?",
+    "Seller Nia": "I'm keeping my ask steady this round due to continued holding and insurance cost pressures, especially since bids are only slowly closing the gap. Has anyone seen notable shifts in buyer urgency or further changes in financing or storage costs impacting your pricing?"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 5
+````json
+{
+  "round_number": 5,
+  "seller_asks": {
+    "Seller Raj": 97.88,
+    "Seller Nia": 97.34,
+    "Seller Zoe": 98.38,
+    "Seller Theo": 97.82,
+    "Seller Leo": 97.44
+  },
+  "buyer_bids": {
+    "Buyer Kit": 95.5,
+    "Buyer Kai": 93.1,
+    "Buyer Max": 97.4,
+    "Buyer Wei": 96.0,
+    "Buyer Jun": 97.35
+  },
+  "trades": [
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Nia",
+      "price": 97.37
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "This hour, ongoing increases in financing and insurance costs are pushing me to raise my ask to $97.88. Is anyone else seeing upward pressure on their cost of capital or changes in risk premiums? Also curious if anyone has noticed a shift in buyer urgency given the recent narrowing of the spread.",
+    "Seller Nia": "Given continued inventory and insurance cost pressures, plus last hour's buyer willingness to transact near current ask levels, I'm maintaining my price for now. Watching closely for any further shifts in buyer urgency or changes in holding costs.",
+    "Seller Zoe": "Given continued high inventory holding and insurance costs, I'm maintaining my ask this hour. Buyers are still only inching up bids, so I see little reason to adjust pricing yet. Has anyone noticed shifts in buyer urgency, or new risks impacting your inventory or cost structure?",
+    "Seller Theo": "I've experienced another uptick in my warehousing insurance premiums and slight increases in storage costs this hour, so I've made a minor downward adjustment to my ask. Has anyone seen changes in buyer behavior or any unique risk factors impacting your holding costs this round?",
+    "Seller Leo": "I'm adjusting my ask slightly upward this hour to reflect a continued rise in insurance and warehousing costs, especially with holding times extending. While buyers remain cautious, recent bid increases suggest we may soon see more trade activity. Anyone else seeing changes in holding risks?"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 6
+````json
+{
+  "round_number": 6,
+  "seller_asks": {
+    "Seller Nia": 97.34,
+    "Seller Leo": 97.39,
+    "Seller Raj": 97.62,
+    "Seller Theo": 97.71,
+    "Seller Zoe": 98.18
+  },
+  "buyer_bids": {
+    "Buyer Kit": 95.5,
+    "Buyer Kai": 94.0,
+    "Buyer Wei": 97.4,
+    "Buyer Max": 97.4,
+    "Buyer Jun": 97.35
+  },
+  "trades": [
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Nia",
+      "price": 97.37
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Leo",
+      "price": 97.4
+    }
+  ],
+  "seller_messages": {
+    "Seller Nia": "Given ongoing inventory and insurance cost pressures, I'm holding my ask steady this hour. Recent trades at these levels suggest buyers remain willing to transact, but I'm watching for any signs of changing urgency or new risk factors. Has anyone noticed shifts in demand or further changes in holding costs?",
+    "Seller Leo": "Ongoing increases in warehousing and insurance costs are continuing to impact my minimum viable price this hour. I'm also carefully monitoring buyer bid increments, but so far, no significant urgency observed. Is anyone else experiencing similar holding or operational pressures?",
+    "Seller Raj": "Due to another marginal increase in financing and insurance costs, I've slightly adjusted my ask to $97.62. I'm also watching the steady rise in buyer bids this hour—has anyone else noticed changes in buyer urgency or fluctuations in operational costs affecting your pricing?",
+    "Seller Theo": "This hour, I'm seeing another uptick in my warehousing and insurance costs, which is driving a slight downward adjustment to my ask. Is anyone else experiencing more volatility in their risk premiums or noticing any change in buyer tactics with the narrowing spread?",
+    "Seller Zoe": "Continued elevated inventory and insurance costs, along with warehousing fees, led me to make a slight downward adjustment to my ask this hour. Buyer bids are moving up slowly but holding risks persist. Has anyone observed new shifts in buyer demand or changes in risk premiums affecting your approach?"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 7
+````json
+{
+  "round_number": 7,
+  "seller_asks": {
+    "Seller Zoe": 97.6,
+    "Seller Theo": 97.59,
+    "Seller Nia": 97.34,
+    "Seller Raj": 97.59,
+    "Seller Leo": 97.61
+  },
+  "buyer_bids": {
+    "Buyer Wei": 97.62,
+    "Buyer Kai": 96.5,
+    "Buyer Max": 97.4,
+    "Buyer Jun": 97.41,
+    "Buyer Kit": 97.25
+  },
+  "trades": [
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Nia",
+      "price": 97.48
+    }
+  ],
+  "seller_messages": {
+    "Seller Zoe": "With warehousing and insurance costs still elevated, I've made a modest further adjustment to my ask this hour. I'm closely tracking both holding risks and buyer activity. Has anyone noticed shifts in buyer urgency or new factors impacting your inventory or insurance costs?",
+    "Seller Theo": "Given another small uptick in warehousing and insurance costs, I've adjusted my ask slightly this hour. I'm still seeing buyers gradually increase bids, but no major signs of urgency yet. Are others noticing any volatility in holding costs or sudden changes in buyer behavior?",
+    "Seller Nia": "Given continued warehousing and insurance cost pressures, I'm keeping my ask steady this hour. Recent trades suggest buyers are still willing at these levels, but I'm monitoring for any shifts in risk or demand. Are others experiencing new cost drivers or noticing any change in buyer urgency?",
+    "Seller Raj": "This hour I've made a slight downward adjustment to my ask due to a marginal reduction in short-term financing rates, though insurance and warehousing remain elevated. Is anyone else seeing stabilization in certain cost areas, or are you still experiencing volatility in your risk premiums and demand forecasts?",
+    "Seller Leo": "I'm seeing a continued gradual rise in warehousing and risk costs this hour, which justifies keeping my ask elevated. Buyer bids are creeping up but no signs of urgent demand yet. Has anyone noticed changes in buyer strategies or any shifts in inventory risk?"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 8
+````json
+{
+  "round_number": 8,
+  "seller_asks": {
+    "Seller Leo": 97.58,
+    "Seller Nia": 97.34,
+    "Seller Theo": 97.53,
+    "Seller Raj": 97.48,
+    "Seller Zoe": 97.58
+  },
+  "buyer_bids": {
+    "Buyer Kit": 97.45,
+    "Buyer Max": 97.4,
+    "Buyer Kai": 97.35,
+    "Buyer Jun": 97.41,
+    "Buyer Wei": 97.62
+  },
+  "trades": [
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Nia",
+      "price": 97.48
+    }
+  ],
+  "seller_messages": {
+    "Seller Leo": "With risk premiums and warehousing costs still elevated, I've kept my ask on the higher side this hour. I'm keeping an eye on buyer bid growth, but haven't seen urgency yet. Is anyone observing shifts in buyer inventory needs or changes in short-term holding costs?",
+    "Seller Nia": "Warehousing and insurance costs remain persistently high on my end, so I'm maintaining my current ask. Buyer demand appears steady and the tight spread supports keeping prices firm. Has anyone noticed any sudden changes in holding costs, demand, or market volatility this hour?",
+    "Seller Theo": "I've noticed a minor stabilization in my warehousing costs this hour, prompting a small downward adjustment to my ask. Buyer bids are trending upward, though still just below ask levels. Is anyone else seeing changes in storage or insurance trends, or any signs of increased buyer urgency?",
+    "Seller Raj": "I've noticed a modest easing in short-term storage premiums this hour, allowing a slight downward adjustment in my ask. However, insurance and risk costs are still quite high on my end. Are others experiencing any stabilization in inventory risk or seeing changes in buyer demand patterns?",
+    "Seller Zoe": "Warehousing and insurance costs remain elevated on my end, prompting another modest adjustment to my ask this hour. I'm also noticing increased holding risk as inventory ages. Is anyone else observing new trends in buyer bidding patterns or shifts in inventory risk?"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 9
+````json
+{
+  "round_number": 9,
+  "seller_asks": {
+    "Seller Raj": 97.34,
+    "Seller Zoe": 97.47,
+    "Seller Nia": 97.34,
+    "Seller Theo": 97.47,
+    "Seller Leo": 97.47
+  },
+  "buyer_bids": {
+    "Buyer Kit": 97.46,
+    "Buyer Wei": 97.49,
+    "Buyer Kai": 97.46,
+    "Buyer Max": 97.4,
+    "Buyer Jun": 97.46
+  },
+  "trades": [
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Nia",
+      "price": 97.41
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Raj",
+      "price": 97.4
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "I've observed a modest, short-term relief in storage and insurance costs this hour, which allowed me to slightly lower my ask. Is anyone else seeing similar cost adjustments, or any notable shifts in buyer demand or inventory turnover this session?",
+    "Seller Zoe": "Warehousing costs on my end have eased slightly, though insurance premiums remain high, prompting a modest reduction in my ask. I'm monitoring buyer bid momentum—has anyone noticed a change in buyer urgency or inventory turnover rates this hour?",
+    "Seller Nia": "My storage and insurance costs remain high, so I'm holding my ask steady again this hour. Buyer demand looks steady with tight spreads, but I'm watching for any signals of increased urgency. Has anyone noticed meaningful changes in their cost structure or buyer strategies?",
+    "Seller Theo": "I've seen a slight reduction in my warehousing costs this hour, which allowed a modest downward adjustment to my ask. The bid-ask spread remains tight—has anyone observed increased buyer urgency or signs of volatility in the past hour?",
+    "Seller Leo": "Warehousing and insurance expenses remain high this hour, justifying a continued firm pricing approach on my end. While buyer bids are gradually increasing, I haven't observed any major shifts in demand or risk that would warrant a significant price change. Has anyone seen changes in short-term cost trends or buyer inventory signals?"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 10
+````json
+{
+  "round_number": 10,
+  "seller_asks": {
+    "Seller Nia": 97.47,
+    "Seller Raj": 97.46,
+    "Seller Zoe": 97.46,
+    "Seller Leo": 97.45,
+    "Seller Theo": 97.44
+  },
+  "buyer_bids": {
+    "Buyer Kai": 97.46,
+    "Buyer Max": 97.4,
+    "Buyer Kit": 97.47,
+    "Buyer Wei": 97.48,
+    "Buyer Jun": 97.48
+  },
+  "trades": [
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Theo",
+      "price": 97.46
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Leo",
+      "price": 97.47
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Raj",
+      "price": 97.47
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Zoe",
+      "price": 97.46
+    }
+  ],
+  "seller_messages": {
+    "Seller Nia": "My storage and insurance costs remain elevated, so I've had to raise my ask this hour. Buyer demand still looks robust, and the bid-ask spread remains tight. Is anyone else experiencing any cost relief, or noticing any changes in buyer urgency or inventory pressure?",
+    "Seller Raj": "I've experienced a slight uptick in short-term financing and insurance costs this hour, which prompted a modest increase in my ask. Is anyone else seeing renewed upward pressure on cost structures, or have you noticed any changes in buyer bidding behavior or urgency?",
+    "Seller Zoe": "I've noticed a small decrease in warehousing costs this hour, prompting a slight ask reduction to improve inventory turnover as we near session end. Has anyone else experienced incremental cost relief or is seeing changes in buyer activity or inventory movement?",
+    "Seller Leo": "I've experienced a modest, short-term decrease in storage costs this hour, which allowed me to slightly lower my ask to address inventory turnover concerns. Is anyone else seeing similar trends, or noticing changes in buyer bid behavior or urgency?",
+    "Seller Theo": "I've observed a slight decrease in warehousing and insurance costs this hour, alongside modestly improved capital turnover. This allowed me to reduce my ask a little further. Has anyone else noticed improvements in cost structure or signs of increased buyer urgency?"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 11
+````json
+{
+  "round_number": 11,
+  "seller_asks": {
+    "Seller Raj": 97.48,
+    "Seller Nia": 97.47,
+    "Seller Leo": 97.44,
+    "Seller Theo": 97.41,
+    "Seller Zoe": 97.45
+  },
+  "buyer_bids": {
+    "Buyer Max": 97.5,
+    "Buyer Wei": 97.48,
+    "Buyer Kit": 97.47,
+    "Buyer Kai": 97.46,
+    "Buyer Jun": 97.48
+  },
+  "trades": [
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Theo",
+      "price": 97.45
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Leo",
+      "price": 97.46
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Zoe",
+      "price": 97.47
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Nia",
+      "price": 97.47
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "I'm seeing a slight uptick in insurance and capital holding costs this hour, which has influenced my ask adjustment. Is anyone else noticing pressure from these costs, or any changes in buyer activity or inventory turnover as we approach the final hours?",
+    "Seller Nia": "I'm maintaining my ask at $97.47 due to continued high storage and insurance expenses. Buyer demand remains solid, but I'm still seeing cost pressure on my end. Has anyone seen any meaningful changes in their cost structure or shifts in buyer urgency this hour?",
+    "Seller Leo": "I've experienced a brief dip in storage costs this hour, which allowed me to slightly lower my ask to address inventory turnover concerns as we near the session's end. Is anyone else seeing similar cost trends or noticing shifts in buyer urgency or bid aggressiveness?",
+    "Seller Theo": "I've seen a continued, though slight, decline in warehousing and insurance costs this hour, which let me further lower my ask to support inventory turnover. Is anyone else experiencing incremental cost relief or observing shifts in buyer urgency as we approach session end?",
+    "Seller Zoe": "I've experienced continued modest relief in warehousing and insurance costs this hour, which prompted another small reduction in my ask. With the session end in sight, I'm focusing more on inventory turnover. Is anyone else seeing further cost changes or shifting urgency?"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 12
+````json
+{
+  "round_number": 12,
+  "seller_asks": {
+    "Seller Nia": 97.47,
+    "Seller Raj": 97.49,
+    "Seller Leo": 97.47,
+    "Seller Zoe": 97.47,
+    "Seller Theo": 97.39
+  },
+  "buyer_bids": {
+    "Buyer Kai": 97.46,
+    "Buyer Wei": 97.48,
+    "Buyer Max": 97.5,
+    "Buyer Jun": 97.48,
+    "Buyer Kit": 97.47
+  },
+  "trades": [
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Theo",
+      "price": 97.44
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Leo",
+      "price": 97.47
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Nia",
+      "price": 97.47
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Zoe",
+      "price": 97.47
+    }
+  ],
+  "seller_messages": {
+    "Seller Nia": "I'm maintaining my ask at $97.47 again this hour due to unrelenting storage and insurance pressures. Buyer demand remains solid and I'm not seeing any meaningful changes in my cost structure. Has anyone observed any new shifts in costs or buyer urgency as we get closer to the end?",
+    "Seller Raj": "I'm seeing incremental increases in insurance and capital holding costs as we near session end, which has prompted a slight upward revision in my ask. Is anyone else experiencing late-session cost pressures or noticing shifts in buyer bidding behavior?",
+    "Seller Leo": "I've noticed a continued but gradual easing of storage and insurance costs, which supports another modest ask reduction to address inventory turnover as we approach the final hours. Is anyone else seeing ongoing cost relief or a shift in buyer urgency this session?",
+    "Seller Zoe": "I'm seeing ongoing, modest reductions in warehousing and insurance costs this hour, which, combined with increasing pressure to turn over inventory before session end, prompted another small ask reduction. Are others still experiencing cost changes or noticing shifts in buyer urgency?",
+    "Seller Theo": "I'm experiencing continued minor declines in warehousing and insurance costs, which is supporting another small reduction in my ask as I focus on inventory turnover. Is anyone else seeing further cost relief or increased buyer urgency as we approach the session's final hours?"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 13
+````json
+{
+  "round_number": 13,
+  "seller_asks": {
+    "Seller Leo": 97.45,
+    "Seller Zoe": 97.48,
+    "Seller Raj": 97.5,
+    "Seller Theo": 97.37,
+    "Seller Nia": 97.47
+  },
+  "buyer_bids": {
+    "Buyer Max": 97.5,
+    "Buyer Kit": 97.47,
+    "Buyer Kai": 97.5,
+    "Buyer Jun": 97.48,
+    "Buyer Wei": 97.48
+  },
+  "trades": [
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Theo",
+      "price": 97.44
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Leo",
+      "price": 97.47
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Nia",
+      "price": 97.47
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Zoe",
+      "price": 97.48
+    }
+  ],
+  "seller_messages": {
+    "Seller Leo": "I'm seeing continued minor cost relief in storage and insurance alongside rising pressure to clear inventory before session end, so I've made another modest reduction in my ask this hour. Is anyone seeing increased buyer urgency or other late-session shifts?",
+    "Seller Zoe": "I'm opting for another modest ask reduction to $97.48 this hour due to continued incremental relief in storage and insurance costs, and mounting pressure to clear inventory with the session winding down. Has anyone else noticed further cost changes or shifts in buyer urgency as we near the end?",
+    "Seller Raj": "I'm seeing a noticeable uptick in capital and insurance holding costs as we approach the session's end, which is prompting me to adjust my ask slightly upward this hour. Are others experiencing similar pressures, or seeing any last-minute shifts in buyer activity or urgency?",
+    "Seller Theo": "I'm seeing another small decrease in warehousing and insurance costs, which supports a further modest reduction in my ask as we near session end. Inventory turnover is becoming increasingly important—has anyone noticed changes in buyer urgency or cost structures this hour?",
+    "Seller Nia": "I'm holding my ask at $97.47 again this hour due to unrelenting storage and insurance cost pressures and steady buyer demand. Has anyone observed any late-session shifts in cost structure or buyer urgency as we approach the final trading hours?"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 14
+````json
+{
+  "round_number": 14,
+  "seller_asks": {
+    "Seller Raj": 97.48,
+    "Seller Zoe": 97.49,
+    "Seller Theo": 97.36,
+    "Seller Leo": 97.48,
+    "Seller Nia": 97.47
+  },
+  "buyer_bids": {
+    "Buyer Jun": 97.48,
+    "Buyer Wei": 97.48,
+    "Buyer Kit": 97.47,
+    "Buyer Kai": 97.5,
+    "Buyer Max": 97.6
+  },
+  "trades": [
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Theo",
+      "price": 97.48
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Nia",
+      "price": 97.48
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Leo",
+      "price": 97.48
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Raj",
+      "price": 97.48
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "I'm seeing persistent end-of-session capital and insurance holding costs, but with inventory turnover now a top priority, I'm lowering my ask to $97.48 this hour. Has anyone observed signs of increased buyer urgency or late-session shifts in cost structure?",
+    "Seller Zoe": "I'm making a slight reduction to $97.49 this hour, citing ongoing incremental relief in warehousing and insurance costs and heightened pressure to clear inventory before the session ends. Has anyone else noticed increased buyer urgency or other last-hour cost shifts?",
+    "Seller Theo": "I'm seeing continued minor relief in storage and insurance costs, which supports another modest ask reduction this hour. With only one session hour remaining, inventory turnover is now my top priority. Has anyone noticed a surge in last-minute buying or further cost changes?",
+    "Seller Leo": "I'm seeing further modest relief in storage and insurance costs, and with session-end inventory pressure intensifying, I've made another slight reduction in my ask this hour. Is anyone else noticing last-hour shifts in buyer urgency or further changes in cost structure?",
+    "Seller Nia": "I'm maintaining my ask at $97.47 again this hour given persistent storage and insurance costs and resilient buyer demand. Has anyone observed any late-breaking shifts in cost structure or buyer urgency as we approach the final hour?"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 15
+````json
+{
+  "round_number": 15,
+  "seller_asks": {
+    "Seller Raj": 97.47,
+    "Seller Nia": 97.47,
+    "Seller Theo": 97.35,
+    "Seller Leo": 97.46,
+    "Seller Zoe": 97.46
+  },
+  "buyer_bids": {
+    "Buyer Wei": 97.48,
+    "Buyer Kit": 97.49,
+    "Buyer Kai": 97.53,
+    "Buyer Jun": 97.5,
+    "Buyer Max": 97.61
+  },
+  "trades": [
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Theo",
+      "price": 97.48
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Leo",
+      "price": 97.5
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Zoe",
+      "price": 97.48
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Nia",
+      "price": 97.48
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Raj",
+      "price": 97.47
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "With the session ending, I'm matching the lowest ask at $97.47 due to persistent but gradually easing holding and insurance costs. My main goal this hour is inventory turnover—has anyone observed heightened last-minute buyer activity or further late-session cost relief?",
+    "Seller Nia": "I'm maintaining my ask at $97.47 for the final hour due to persistent storage and insurance costs and continued strong buyer demand. Has anyone observed any substantial last-minute shifts in costs or buyer urgency as we close out the session?",
+    "Seller Theo": "I'm seeing continued minor relief in storage and insurance costs, which supports a final modest reduction in my ask this hour. With end-of-session inventory carrying risks now paramount, rapid turnover is my top priority. Has anyone noticed any last-minute shifts in buyer urgency or additional cost changes?",
+    "Seller Leo": "Given significant end-of-session inventory risk and incremental relief in storage and insurance costs, I've made another small ask reduction this hour. Has anyone noticed any final-hour surges in buyer demand or further cost changes?",
+    "Seller Zoe": "With session-end inventory risk now at its peak and some incremental relief in storage and insurance costs, I'm making one final modest reduction to $97.46 this hour to prioritize liquidation. Has anyone else observed intensified buyer urgency or further cost shifts as we close out the session?"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````

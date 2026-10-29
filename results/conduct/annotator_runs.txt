@@ -1,0 +1,5 @@
+log_batch1.txt: model: gpt-6.1-sol; reasoning effort: medium; OpenAI Codex v0.162.1
+log_batch2.txt: model: gpt-6.1-sol; reasoning effort: medium; OpenAI Codex v0.162.1
+log_batch3.txt: model: gpt-6.1-sol; reasoning effort: medium; OpenAI Codex v0.162.1
+log_batch4.txt: model: gpt-6.1-sol; reasoning effort: medium; OpenAI Codex v0.162.1
+log_batch5.txt: model: gpt-6.1-sol; reasoning effort: medium; OpenAI Codex v0.162.1

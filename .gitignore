@@ -1,0 +1,8 @@
+starter/
+.env
+*.env
+NOW.md
+CLAUDE.md
+DECISIONS.md
+__pycache__/
+.venv/

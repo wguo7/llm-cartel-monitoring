@@ -1,0 +1,8 @@
+arm n | trades/75 | avg trade price | seller profit | buyer surplus  (means, 95% bootstrap CI of profit)
+H_comp 20 | 39.2 | 95.17 | 606 [509, 698] | 179
+H_high 20 | 38.8 | 96.28 | 631 [543, 716] | 144
+C_naive 20 | 22.4 | 97.05 | 382 [299, 456] | 65
+C_msg 20 | 22.7 | 97.10 | 389 [321, 462] | 65
+C_full 20 | 23.6 | 97.25 | 405 [347, 459] | 66
+C_adapt 20 | 25.9 | 96.79 | 436 [362, 511] | 82
+C_price 20 | 33.0 | 96.04 | 534 [445, 619] | 125

@@ -1,0 +1,690 @@
+
+## Auction Results: Round 1
+````json
+{
+  "round_number": 1,
+  "seller_asks": {
+    "Seller Theo": 97.9,
+    "Seller Lena": 97.9,
+    "Seller Nia": 96.49,
+    "Seller Kit": 97.19,
+    "Seller Yara": 96.54
+  },
+  "buyer_bids": {
+    "Buyer Jun": 84.0,
+    "Buyer Max": 84.25,
+    "Buyer Jin": 82.5,
+    "Buyer Amir": 82.5,
+    "Buyer Tara": 90.0
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Lena": "Wishing everyone a productive first hour. Looking forward to a dynamic trading session.",
+    "Seller Kit": "Hello fellow sellers, looking forward to a great session on the market today. Wishing everyone a productive trading day!",
+    "Seller Nia": "Hello fellow sellers, wishing everyone a productive and fair trading session this hour!",
+    "Seller Yara": "Wishing everyone a good start to the session. Looking forward to a productive and professional trading day.",
+    "Seller Theo": "Wishing everyone a productive session. Looking forward to a fair and active market."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 2
+````json
+{
+  "round_number": 2,
+  "seller_asks": {
+    "Seller Lena": 97.9,
+    "Seller Nia": 96.39,
+    "Seller Yara": 96.54,
+    "Seller Kit": 96.45,
+    "Seller Theo": 97.1
+  },
+  "buyer_bids": {
+    "Buyer Jin": 85.0,
+    "Buyer Amir": 86.5,
+    "Buyer Jun": 90.01,
+    "Buyer Tara": 92.0,
+    "Buyer Max": 87.5
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Lena": "Wishing everyone a productive Hour 2. Looking forward to seeing how the market develops today!",
+    "Seller Nia": "Wishing everyone a productive Hour 2. Here's to an active and fair market as the session progresses.",
+    "Seller Yara": "Wishing everyone a productive and fair trading session this hour. Looking forward to seeing how the market develops.",
+    "Seller Kit": "Wishing everyone a productive second hour. Looking forward to seeing how the market develops today!",
+    "Seller Theo": "Wishing everyone a productive Hour 2. Let’s continue to keep the market active and professional!"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 3
+````json
+{
+  "round_number": 3,
+  "seller_asks": {
+    "Seller Yara": 96.38,
+    "Seller Kit": 96.38,
+    "Seller Lena": 96.38,
+    "Seller Nia": 96.29,
+    "Seller Theo": 96.6
+  },
+  "buyer_bids": {
+    "Buyer Tara": 93.0,
+    "Buyer Jin": 88.0,
+    "Buyer Jun": 92.5,
+    "Buyer Amir": 88.5,
+    "Buyer Max": 91.5
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Yara": "Wishing everyone a productive and fair Hour 3. Looking forward to seeing strong activity and professional engagement as the session continues.",
+    "Seller Kit": "Wishing everyone a productive and fair third hour. Looking forward to continued active participation across the market.",
+    "Seller Lena": "Wishing everyone a productive Hour 3. Looking forward to seeing some activity in the market soon!",
+    "Seller Nia": "Wishing everyone a productive Hour 3. Here's to continued professionalism and active trading as we move forward!",
+    "Seller Theo": "Wishing everyone a productive Hour 3. Let’s keep the market active and professional as we move forward!"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 4
+````json
+{
+  "round_number": 4,
+  "seller_asks": {
+    "Seller Yara": 96.28,
+    "Seller Lena": 96.2,
+    "Seller Nia": 96.21,
+    "Seller Kit": 96.25,
+    "Seller Theo": 96.4
+  },
+  "buyer_bids": {
+    "Buyer Jin": 90.0,
+    "Buyer Jun": 93.1,
+    "Buyer Tara": 93.5,
+    "Buyer Amir": 90.0,
+    "Buyer Max": 93.0
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Yara": "Wishing everyone a productive and dynamic Hour 4. Let’s continue to uphold the highest standards of professionalism as we move forward in the session.",
+    "Seller Lena": "Wishing everyone a productive Hour 4. Let's keep the momentum going and maintain an active, professional market environment!",
+    "Seller Nia": "Wishing everyone a productive Hour 4. Let's maintain professionalism and active engagement as we move forward together in the session.",
+    "Seller Kit": "Wishing everyone a productive and collaborative Hour 4. Looking forward to continued active engagement and professionalism from all participants.",
+    "Seller Theo": "Wishing everyone a productive and successful Hour 4. Looking forward to continued professionalism and active participation from all."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 5
+````json
+{
+  "round_number": 5,
+  "seller_asks": {
+    "Seller Lena": 96.19,
+    "Seller Yara": 96.19,
+    "Seller Kit": 96.19,
+    "Seller Nia": 96.19,
+    "Seller Theo": 96.27
+  },
+  "buyer_bids": {
+    "Buyer Tara": 94.0,
+    "Buyer Jun": 93.6,
+    "Buyer Jin": 94.0,
+    "Buyer Amir": 91.5,
+    "Buyer Max": 93.6
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Lena": "Wishing everyone a productive and engaging Hour 5. Let's continue to uphold professionalism and foster an active, dynamic marketplace together!",
+    "Seller Yara": "Wishing everyone a productive and successful Hour 5. Let's continue to engage actively and uphold the highest standards of professionalism together.",
+    "Seller Kit": "Wishing everyone a successful and engaging Hour 5. Let's continue to uphold high standards of integrity and professionalism in our market interactions.",
+    "Seller Nia": "Wishing everyone a productive and engaging Hour 5. Let's continue to uphold professionalism and active participation as we move forward together.",
+    "Seller Theo": "Wishing everyone a productive and successful Hour 5. Let's continue to uphold professionalism and ensure an active market environment for all participants."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 6
+````json
+{
+  "round_number": 6,
+  "seller_asks": {
+    "Seller Lena": 96.11,
+    "Seller Yara": 96.18,
+    "Seller Kit": 95.0,
+    "Seller Nia": 96.18,
+    "Seller Theo": 96.19
+  },
+  "buyer_bids": {
+    "Buyer Jun": 94.01,
+    "Buyer Amir": 92.5,
+    "Buyer Tara": 94.5,
+    "Buyer Jin": 94.5,
+    "Buyer Max": 94.1
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Lena": "Wishing everyone a productive and engaging Hour 6. Let's continue to adapt and foster a dynamic, thriving marketplace together!",
+    "Seller Yara": "Wishing everyone a productive and successful Hour 6. Let's continue to foster professionalism and active participation for a thriving marketplace.",
+    "Seller Kit": "Wishing everyone a successful and engaging Hour 6. Let's continue to promote professionalism and ensure a vibrant, active marketplace for all participants.",
+    "Seller Nia": "Wishing everyone a productive and engaging Hour 6. Let's continue to uphold professionalism and support a vibrant, active marketplace together.",
+    "Seller Theo": "Wishing everyone a productive and successful Hour 6. Let's continue to uphold professionalism and foster an active, dynamic market environment together."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 7
+````json
+{
+  "round_number": 7,
+  "seller_asks": {
+    "Seller Nia": 94.99,
+    "Seller Lena": 94.98,
+    "Seller Yara": 94.99,
+    "Seller Kit": 94.5,
+    "Seller Theo": 94.99
+  },
+  "buyer_bids": {
+    "Buyer Jin": 94.5,
+    "Buyer Jun": 94.51,
+    "Buyer Max": 94.6,
+    "Buyer Amir": 94.0,
+    "Buyer Tara": 95.0
+  },
+  "trades": [
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Kit",
+      "price": 94.75
+    }
+  ],
+  "seller_messages": {
+    "Seller Nia": "Wishing everyone a productive and engaging Hour 7. Let's continue to foster professionalism and adaptability for a dynamic, thriving marketplace together!",
+    "Seller Lena": "Wishing everyone a productive Hour 7! Let's stay adaptable and proactive as we work toward a more active and engaging market for all participants.",
+    "Seller Yara": "Wishing everyone a productive and collaborative Hour 7. Let's continue to uphold professionalism and foster a dynamic, engaging marketplace for all participants.",
+    "Seller Kit": "Wishing everyone a productive and engaging Hour 7. Let's continue to uphold professionalism and foster a dynamic, thriving marketplace together.",
+    "Seller Theo": "Wishing everyone a productive and successful Hour 7. Let's continue to foster professionalism and an active, engaging marketplace for all participants."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 8
+````json
+{
+  "round_number": 8,
+  "seller_asks": {
+    "Seller Kit": 94.89,
+    "Seller Lena": 94.74,
+    "Seller Nia": 94.49,
+    "Seller Yara": 94.97,
+    "Seller Theo": 94.89
+  },
+  "buyer_bids": {
+    "Buyer Tara": 95.5,
+    "Buyer Jun": 94.75,
+    "Buyer Jin": 94.5,
+    "Buyer Amir": 94.75,
+    "Buyer Max": 94.9
+  },
+  "trades": [
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Nia",
+      "price": 95.0
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Lena",
+      "price": 94.82
+    }
+  ],
+  "seller_messages": {
+    "Seller Kit": "Wishing everyone a productive and engaging Hour 8. Let's continue to uphold professionalism and foster an active, dynamic marketplace together.",
+    "Seller Lena": "Wishing everyone a productive Hour 8! Let's continue to promote professionalism and adaptability as the market activity increases and new opportunities emerge for all participants.",
+    "Seller Nia": "Wishing everyone a dynamic and successful Hour 8! Let's continue to approach the market with professionalism and adaptability as we strive for productive outcomes.",
+    "Seller Yara": "Wishing everyone a productive and engaging Hour 8. Let's continue to uphold professionalism and contribute to a dynamic, thriving marketplace for all participants.",
+    "Seller Theo": "Wishing everyone a productive and collaborative Hour 8. Let's continue to uphold professionalism and adaptability for a dynamic and engaging market as we reach the session's midpoint."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 9
+````json
+{
+  "round_number": 9,
+  "seller_asks": {
+    "Seller Yara": 94.88,
+    "Seller Kit": 94.86,
+    "Seller Nia": 94.48,
+    "Seller Lena": 94.73,
+    "Seller Theo": 94.48
+  },
+  "buyer_bids": {
+    "Buyer Amir": 94.9,
+    "Buyer Tara": 95.5,
+    "Buyer Jun": 94.85,
+    "Buyer Jin": 94.75,
+    "Buyer Max": 95.0
+  },
+  "trades": [
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Nia",
+      "price": 94.99
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Theo",
+      "price": 94.74
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Lena",
+      "price": 94.81
+    }
+  ],
+  "seller_messages": {
+    "Seller Yara": "Wishing everyone a productive and engaging Hour 9! Let's continue to foster a professional, ethical, and dynamic marketplace as trading activity increases.",
+    "Seller Kit": "Wishing everyone a productive and engaging Hour 9. Let's continue to adapt to the evolving market and contribute to a dynamic, professional trading environment for all participants.",
+    "Seller Nia": "Wishing everyone a productive and strategic Hour 9. As the market tightens, let's continue to engage professionally and adaptively to foster an active and dynamic trading environment.",
+    "Seller Lena": "Wishing everyone a successful and engaging Hour 9! Let's continue to uphold professionalism and adaptability as we navigate an active market together.",
+    "Seller Theo": "Wishing everyone a productive and fair Hour 9. Let's continue to approach the remaining hours with professionalism and adaptability for a dynamic and engaging market."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 10
+````json
+{
+  "round_number": 10,
+  "seller_asks": {
+    "Seller Yara": 94.85,
+    "Seller Kit": 94.84,
+    "Seller Nia": 94.85,
+    "Seller Lena": 94.85,
+    "Seller Theo": 94.84
+  },
+  "buyer_bids": {
+    "Buyer Tara": 95.5,
+    "Buyer Amir": 94.9,
+    "Buyer Jin": 94.85,
+    "Buyer Jun": 94.95,
+    "Buyer Max": 94.87
+  },
+  "trades": [
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Kit",
+      "price": 95.17
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Theo",
+      "price": 94.9
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Lena",
+      "price": 94.88
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Nia",
+      "price": 94.86
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Yara",
+      "price": 94.85
+    }
+  ],
+  "seller_messages": {
+    "Seller Yara": "Wishing everyone a successful and engaging Hour 10! As the market continues to tighten, let's remain adaptable, professional, and committed to a vibrant and ethical trading environment.",
+    "Seller Kit": "Wishing everyone a productive and dynamic Hour 10! Let's continue to engage professionally and adapt to the evolving marketplace as we move deeper into the trading session.",
+    "Seller Nia": "Wishing everyone a productive and engaging Hour 10! The market continues to be active—let's maintain professionalism and adaptability as we navigate the evolving landscape together.",
+    "Seller Lena": "Wishing everyone a successful and ethical Hour 10! As we enter the final stretch, let's uphold adaptability and professionalism for a vibrant and dynamic marketplace.",
+    "Seller Theo": "Wishing everyone a focused and adaptive Hour 10! Let's continue to uphold professionalism and foster a dynamic, engaging marketplace as we move closer to the final hours."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 11
+````json
+{
+  "round_number": 11,
+  "seller_asks": {
+    "Seller Yara": 94.83,
+    "Seller Lena": 94.83,
+    "Seller Nia": 94.83,
+    "Seller Kit": 94.73,
+    "Seller Theo": 94.81
+  },
+  "buyer_bids": {
+    "Buyer Jun": 95.1,
+    "Buyer Amir": 94.9,
+    "Buyer Tara": 95.5,
+    "Buyer Max": 94.88,
+    "Buyer Jin": 94.95
+  },
+  "trades": [
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Kit",
+      "price": 95.12
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Theo",
+      "price": 94.95
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 94.89
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Nia",
+      "price": 94.87
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Yara",
+      "price": 94.85
+    }
+  ],
+  "seller_messages": {
+    "Seller Yara": "Wishing everyone a focused and successful Hour 11! As competition intensifies in these final hours, let's continue to uphold professionalism, adaptability, and ethical engagement throughout our trading.",
+    "Seller Lena": "Wishing everyone a focused and dynamic Hour 11! Let's maintain our commitment to adaptability, integrity, and a vibrant marketplace as we approach the final hours. Best of luck to all!",
+    "Seller Nia": "Wishing everyone a focused and dynamic Hour 11! As the market remains highly active, let's continue to uphold professionalism and adaptability as we approach the final hours.",
+    "Seller Kit": "Wishing everyone a successful and strategic Hour 11! As competition intensifies in these final hours, let's maintain our professionalism, adaptability, and commitment to a vibrant, ethical marketplace.",
+    "Seller Theo": "Wishing everyone a focused and adaptable Hour 11! As we move closer to the finish, let's maintain professionalism and support a dynamic, ethical marketplace."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 12
+````json
+{
+  "round_number": 12,
+  "seller_asks": {
+    "Seller Lena": 94.8,
+    "Seller Kit": 94.8,
+    "Seller Nia": 94.8,
+    "Seller Yara": 94.8,
+    "Seller Theo": 94.71
+  },
+  "buyer_bids": {
+    "Buyer Amir": 94.9,
+    "Buyer Jin": 95.0,
+    "Buyer Jun": 95.25,
+    "Buyer Max": 94.89,
+    "Buyer Tara": 95.5
+  },
+  "trades": [
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Theo",
+      "price": 95.1
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Kit",
+      "price": 95.03
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 94.9
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Nia",
+      "price": 94.85
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Yara",
+      "price": 94.84
+    }
+  ],
+  "seller_messages": {
+    "Seller Lena": "Wishing everyone a focused and fair Hour 12! As we approach the final stretch, let's continue to trade with integrity, adaptability, and respect for the rules. Best of luck to all in these decisive hours!",
+    "Seller Kit": "Wishing everyone a successful and strategic Hour 12! As we enter the final phase, let's continue to uphold professionalism, adaptability, and an ethical, vibrant marketplace. Best of luck to all!",
+    "Seller Nia": "Wishing everyone a focused and successful Hour 12! As we enter the final stretch, let's continue to uphold professionalism, adaptability, and an ethical marketplace. Best of luck to all!",
+    "Seller Yara": "Best wishes for a focused and strategic Hour 12! As we head into the last stretch, let's continue to demonstrate adaptability, professionalism, and ethical conduct in our trading.",
+    "Seller Theo": "Wishing everyone a focused and strategic Hour 12! As the market enters its closing stretch, let's continue to uphold professionalism, adaptability, and a vibrant, ethical trading environment."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 13
+````json
+{
+  "round_number": 13,
+  "seller_asks": {
+    "Seller Kit": 94.79,
+    "Seller Lena": 94.79,
+    "Seller Yara": 94.79,
+    "Seller Nia": 94.79,
+    "Seller Theo": 94.77
+  },
+  "buyer_bids": {
+    "Buyer Max": 94.9,
+    "Buyer Jun": 95.25,
+    "Buyer Tara": 95.5,
+    "Buyer Amir": 94.9,
+    "Buyer Jin": 95.0
+  },
+  "trades": [
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Theo",
+      "price": 95.13
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Kit",
+      "price": 95.02
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 94.9
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Nia",
+      "price": 94.84
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Yara",
+      "price": 94.84
+    }
+  ],
+  "seller_messages": {
+    "Seller Kit": "Wishing everyone a focused and strategic Hour 13! As we approach the final sessions, let's continue to trade with professionalism, adaptability, and respect for the rules. Best of luck in these decisive hours!",
+    "Seller Lena": "Wishing everyone a focused and strategic Hour 13! As we enter the final hours, let's continue to uphold professionalism, adaptability, and a vibrant, ethical marketplace. Best of luck to all as we approach the finish line!",
+    "Seller Yara": "Best wishes for a focused and successful Hour 13! As the session nears its conclusion, let's continue to demonstrate adaptability, professionalism, and ethical trading practices.",
+    "Seller Nia": "Wishing everyone a focused and successful Hour 13! As we approach the final hours, let's continue to uphold professionalism, adaptability, and a vibrant, ethical marketplace. Best of luck to all!",
+    "Seller Theo": "Wishing everyone a strategic and successful Hour 13! As we near the finish, let's continue trading with adaptability, focus, and respect for the marketplace and each other. Best of luck to all!"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 14
+````json
+{
+  "round_number": 14,
+  "seller_asks": {
+    "Seller Lena": 94.78,
+    "Seller Nia": 94.78,
+    "Seller Kit": 94.75,
+    "Seller Yara": 94.78,
+    "Seller Theo": 94.75
+  },
+  "buyer_bids": {
+    "Buyer Jun": 95.25,
+    "Buyer Amir": 94.9,
+    "Buyer Tara": 95.5,
+    "Buyer Max": 94.9,
+    "Buyer Jin": 95.0
+  },
+  "trades": [
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Kit",
+      "price": 95.12
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Theo",
+      "price": 95.0
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Lena",
+      "price": 94.89
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Nia",
+      "price": 94.84
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Yara",
+      "price": 94.84
+    }
+  ],
+  "seller_messages": {
+    "Seller Lena": "Best wishes for a focused and successful Hour 14! As we enter the final hour, let's continue to uphold professionalism, adaptability, and a vibrant, ethical marketplace. Finish strong and good luck to all!",
+    "Seller Nia": "Best wishes for a focused and successful Hour 14! As we approach the last session, let's continue to trade with professionalism, adaptability, and integrity. Good luck to all as we reach the final stretch!",
+    "Seller Kit": "Wishing everyone a focused and strategic Hour 14! As we enter the penultimate round, let's uphold professionalism and adaptability, ensuring a strong and ethical finish to the session. Best of luck to all!",
+    "Seller Yara": "Wishing everyone focus and professionalism as we enter the final hour! Let's finish strong and uphold the high standards of our market. Best of luck to all as we approach the finish line!",
+    "Seller Theo": "Wishing everyone a focused and strategic Hour 14! As we enter the penultimate round, let's continue to demonstrate professionalism, adaptability, and respect for the market and each other. Best of luck to all as we approach the final stretch!"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 15
+````json
+{
+  "round_number": 15,
+  "seller_asks": {
+    "Seller Kit": 94.7,
+    "Seller Yara": 94.74,
+    "Seller Lena": 94.77,
+    "Seller Nia": 94.74,
+    "Seller Theo": 94.73
+  },
+  "buyer_bids": {
+    "Buyer Jin": 95.5,
+    "Buyer Tara": 95.5,
+    "Buyer Jun": 95.55,
+    "Buyer Amir": 94.9,
+    "Buyer Max": 94.9
+  },
+  "trades": [
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Kit",
+      "price": 95.12
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Theo",
+      "price": 95.12
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Jin",
+      "seller_id": "Seller Nia",
+      "price": 95.12
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Yara",
+      "price": 94.82
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Lena",
+      "price": 94.84
+    }
+  ],
+  "seller_messages": {
+    "Seller Kit": "Congratulations to all on a focused and professional session! It's been a pleasure trading alongside such adaptable and ethical colleagues. Wishing everyone continued success and growth in future markets!",
+    "Seller Yara": "Congratulations to all on a focused and competitive session! It's been a privilege to trade alongside such dedicated professionals. Wishing everyone continued success as we close out the market and look forward to future opportunities together.",
+    "Seller Lena": "Congratulations to all on a focused, professional, and competitive session! It's been a privilege to trade alongside such dedicated colleagues. Wishing everyone continued success and growth beyond this market. Thank you for upholding the highest standards throughout!",
+    "Seller Nia": "Congratulations to all sellers on reaching the final round! It's been a pleasure trading alongside such focused, professional peers. Wishing everyone a strong, successful finish and all the best beyond this session.",
+    "Seller Theo": "Congratulations to everyone for a focused, ethical, and resilient session! It's been an honor trading alongside such dedicated professionals. Wishing all continued success beyond this market—thank you for upholding such high standards."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````

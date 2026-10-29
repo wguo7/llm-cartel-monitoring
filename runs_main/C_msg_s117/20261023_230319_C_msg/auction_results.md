@@ -1,0 +1,611 @@
+
+## Auction Results: Round 1
+````json
+{
+  "round_number": 1,
+  "seller_asks": {
+    "Seller Lena": 98.46,
+    "Seller Jin": 97.38,
+    "Seller Omar": 97.0,
+    "Seller Jun": 96.83,
+    "Seller Nia": 96.72
+  },
+  "buyer_bids": {
+    "Buyer Mia": 82.0,
+    "Buyer Leo": 84.0,
+    "Buyer Amir": 85.0,
+    "Buyer Ana": 83.65,
+    "Buyer Tara": 84.0
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Nia": "Market opened calmly—no trades yet. Bids remain well below asks so far. Let's watch how buyers respond before making any moves.",
+    "Seller Lena": "Looks like buyers are starting cautiously with low bids. Let's see how the demand develops as the session progresses.",
+    "Seller Jin": "Strong opening with steady asks all around. Let's see how buyers respond in the next round—could be interesting to watch initial bid movements.",
+    "Seller Jun": "Market just opened with a wide spread. Suggest we observe buyer responses to current levels before making any aggressive moves. Patience may help us gauge demand and optimize our trading.",
+    "Seller Omar": "Looks like there's a wide spread to start the session. Will be interesting to see how buyers respond as the hours progress."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 2
+````json
+{
+  "round_number": 2,
+  "seller_asks": {
+    "Seller Nia": 96.72,
+    "Seller Jun": 96.82,
+    "Seller Jin": 97.38,
+    "Seller Lena": 98.46,
+    "Seller Omar": 97.0
+  },
+  "buyer_bids": {
+    "Buyer Leo": 85.5,
+    "Buyer Tara": 85.1,
+    "Buyer Ana": 85.5,
+    "Buyer Amir": 88.0,
+    "Buyer Mia": 85.0
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Nia": "Spread remains wide and buyers haven't increased bids yet. Patience could pay off if we see upward movement from their side. Let's keep monitoring demand closely.",
+    "Seller Jun": "Market remains steady with no trades so far. It will be important to keep monitoring buyer behavior to see if their bids start to move up in response to current ask levels.",
+    "Seller Jin": "Still no trades as buyers hold their ground. The market remains steady, and no seller has moved yet. Let's keep watching buyer activity—early patience may help us gauge demand strength for better decisions.",
+    "Seller Lena": "Still seeing a wide spread and no trades. Buyers haven't moved up much so far. It may be wise to keep watching how demand shapes up before making any substantial pricing changes.",
+    "Seller Omar": "No trades again this round—buyers seem hesitant to raise bids so far. Let's keep monitoring how demand develops before making any big moves. Curious to see if buyers start to adjust in the next few hours."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 3
+````json
+{
+  "round_number": 3,
+  "seller_asks": {
+    "Seller Nia": 96.72,
+    "Seller Jin": 97.38,
+    "Seller Jun": 96.81,
+    "Seller Lena": 98.46,
+    "Seller Omar": 97.0
+  },
+  "buyer_bids": {
+    "Buyer Tara": 88.1,
+    "Buyer Amir": 91.0,
+    "Buyer Leo": 88.5,
+    "Buyer Mia": 86.0,
+    "Buyer Ana": 88.5
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Nia": "Market remains steady with no trades and a wide spread. Continuing to watch buyer bids closely—patience could still pay off if demand strengthens. Let's see how buyers respond in the next round.",
+    "Seller Jin": "Market remains unchanged—no trades and buyers showing only slight increases in bids. Patience seems to be working so far. Let's keep monitoring buyer behavior and reassess if there's any significant movement.",
+    "Seller Jun": "Another hour without trades and buyers are only slowly adjusting bids upward. The spread is still significant, so it may be worth continuing to observe before making any major moves. Let's keep monitoring how the demand side evolves.",
+    "Seller Lena": "Market conditions remain steady—buyers are still holding below our ask levels and no trades have cleared yet. It seems prudent to keep monitoring buyer activity for any signs of upward movement before making significant changes to our pricing.",
+    "Seller Omar": "Market remains steady with no trades so far. Buyers are holding their bid levels. Let's keep observing how demand evolves and see if any movement occurs from their side in the coming hours."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 4
+````json
+{
+  "round_number": 4,
+  "seller_asks": {
+    "Seller Nia": 96.72,
+    "Seller Jin": 97.38,
+    "Seller Jun": 96.8,
+    "Seller Lena": 98.46,
+    "Seller Omar": 97.0
+  },
+  "buyer_bids": {
+    "Buyer Ana": 89.5,
+    "Buyer Mia": 87.0,
+    "Buyer Tara": 89.5,
+    "Buyer Amir": 94.0,
+    "Buyer Leo": 89.25
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Nia": "Market continues steady with buyers making small bid increases but still below ask levels. No trades yet. Staying observant for any significant shifts in buyer behavior—let's see how things develop.",
+    "Seller Jin": "Market remains steady with no trades and the spread persists. Buyers are inching bids up, but no clear urgency yet. Suggest we keep monitoring for any shifts in demand or significant moves on either side before making major adjustments.",
+    "Seller Jun": "Market conditions remain unchanged with no trades clearing yet. Buyers are slowly increasing their bids, but the spread is still significant. It may be wise to keep monitoring for any upcoming demand shifts and see if buyers continue moving upward.",
+    "Seller Lena": "Market remains steady with buyer bids slowly edging up, but no trades yet. I'm holding position and watching for any significant movement from buyers or sellers. Let's keep monitoring the demand side closely for any shifts.",
+    "Seller Omar": "Market remains steady with no trades and a persistent spread. Buyers continue to slowly raise their bids, but no sign yet of anyone crossing the gap. Let's keep monitoring buyer behavior closely for any shifts in demand."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 5
+````json
+{
+  "round_number": 5,
+  "seller_asks": {
+    "Seller Jun": 96.79,
+    "Seller Nia": 96.72,
+    "Seller Jin": 97.38,
+    "Seller Lena": 98.46,
+    "Seller Omar": 97.0
+  },
+  "buyer_bids": {
+    "Buyer Amir": 95.0,
+    "Buyer Tara": 92.0,
+    "Buyer Ana": 91.0,
+    "Buyer Mia": 88.0,
+    "Buyer Leo": 89.75
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Jun": "Market remains steady with buyers incrementally increasing bids, but no trades yet. I'll continue monitoring for any significant changes in demand or seller activity. Let's stay alert for any shifts from buyers or sellers.",
+    "Seller Nia": "Market holding steady with bids still below ask levels and no trades yet. Buyers are gradually increasing bids, so I'll keep monitoring for any signs of demand shifts or sudden moves. Staying patient and observant.",
+    "Seller Jin": "Market is staying steady with buyers gradually raising their bids, but the spread is still intact and no trades yet. I'm holding my position and will keep watching for any significant shifts on either side.",
+    "Seller Lena": "Market remains steady with buyers continuing to edge bids upward, but we're still not seeing any trades clear. I'll be keeping a close eye on both sides for any significant movement. Let's see how buyers respond in the next round.",
+    "Seller Omar": "Market remains stable, with buyers still gradually increasing bids but not yet closing the gap. No trades have cleared. Let's continue to monitor for any shifts in demand or unexpected moves on either side."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 6
+````json
+{
+  "round_number": 6,
+  "seller_asks": {
+    "Seller Jin": 97.38,
+    "Seller Nia": 96.72,
+    "Seller Jun": 96.78,
+    "Seller Lena": 98.46,
+    "Seller Omar": 97.0
+  },
+  "buyer_bids": {
+    "Buyer Mia": 89.0,
+    "Buyer Ana": 93.5,
+    "Buyer Tara": 94.5,
+    "Buyer Leo": 91.0,
+    "Buyer Amir": 96.0
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Jin": "Market continues to show stability with buyers slowly raising bids, but no trades have occurred yet. I'll keep monitoring for any notable changes on either side and remain cautious for now.",
+    "Seller Nia": "Market remains steady with buyers incrementally raising bids, but no trades yet. I'm maintaining my position and will continue to monitor for any significant shifts on either side. Let's see how buyers respond in the next round.",
+    "Seller Jun": "Market continues to show gradual upward movement in buyer bids, but still no trades. I'll keep monitoring for any changes in demand or sudden moves from either side. Staying patient and watchful.",
+    "Seller Lena": "Buyers are continuing to edge bids upward, but the gap remains. No trades yet—I'll be watching closely for any signs of changing momentum or sudden moves from either side.",
+    "Seller Omar": "Market is remaining steady, with buyers continuing gradual bid increases and no trades yet. I'll keep my ask steady and keep watching for any significant shifts on either side. Let's stay observant and ready to respond if market conditions change."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 7
+````json
+{
+  "round_number": 7,
+  "seller_asks": {
+    "Seller Omar": 97.0,
+    "Seller Jin": 97.38,
+    "Seller Nia": 96.72,
+    "Seller Lena": 98.46,
+    "Seller Jun": 96.73
+  },
+  "buyer_bids": {
+    "Buyer Tara": 95.5,
+    "Buyer Leo": 94.0,
+    "Buyer Ana": 95.25,
+    "Buyer Amir": 96.7,
+    "Buyer Mia": 90.0
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Omar": "Buyers are showing sustained incremental increases in bids, but the spread is holding. I'll continue to watch for any signs of a shift and stay patient for now. Let's keep tracking any notable changes in buyer behavior.",
+    "Seller Jin": "Market remains stable with buyers continuing to slowly push their bids higher, but no trades yet. I'll maintain my current ask and keep a close watch for any significant shifts or sudden moves on either side. Staying patient seems prudent for the moment.",
+    "Seller Nia": "Market continues to show gradual upward pressure on bids, with the spread now quite narrow. Still no trades, but conditions may be approaching a turning point. I'll be watching for any sharp moves or sudden changes from buyers.",
+    "Seller Lena": "Buyers are continuing to steadily raise their bids, bringing the spread closer, but the market remains stable and no trades have occurred. I'll keep monitoring for any major shifts and remain patient for now.",
+    "Seller Jun": "Buyers are continuing to edge bids upward, with the spread narrowing further but still no trades yet. I'll keep monitoring for any abrupt moves from either side and remain cautious as we approach a potential inflection point."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 8
+````json
+{
+  "round_number": 8,
+  "seller_asks": {
+    "Seller Nia": 96.72,
+    "Seller Jin": 97.38,
+    "Seller Lena": 98.46,
+    "Seller Jun": 96.74,
+    "Seller Omar": 97.0
+  },
+  "buyer_bids": {
+    "Buyer Tara": 96.7,
+    "Buyer Ana": 96.7,
+    "Buyer Mia": 92.0,
+    "Buyer Amir": 96.75,
+    "Buyer Leo": 95.5
+  },
+  "trades": [
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Nia",
+      "price": 96.73
+    }
+  ],
+  "seller_messages": {
+    "Seller Nia": "Buyers are steadily increasing bids and the spread is now very narrow, but no trades so far. I'll stay watchful for any abrupt changes or aggressive moves from buyers as we move forward.",
+    "Seller Jin": "Buyers continue to steadily push their bids upward, tightening the spread further. I'll keep a close watch for any sharp moves or rapid changes from either side and stay ready to respond if market dynamics shift.",
+    "Seller Lena": "Buyers are staying aggressive with continued bid increases, and the spread is now very tight. No trades yet, but I'll be watching closely for any abrupt moves or changes in buying activity. Cautious patience still seems wise for the time being.",
+    "Seller Jun": "Bids continue to climb and the spread is now extremely tight—buyers clearly want to transact. I'll be watching closely for any abrupt changes or signals that momentum is shifting. Let's continue to monitor for any signs of a breakthrough.",
+    "Seller Omar": "Buyers are closing in on our ask range, but the market remains steady with no trades. I'll stay patient and keep monitoring for any sharp moves or sudden shifts in buyer behavior."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 9
+````json
+{
+  "round_number": 9,
+  "seller_asks": {
+    "Seller Lena": 97.48,
+    "Seller Jun": 96.73,
+    "Seller Jin": 97.0,
+    "Seller Nia": 96.92,
+    "Seller Omar": 97.0
+  },
+  "buyer_bids": {
+    "Buyer Leo": 96.6,
+    "Buyer Tara": 96.7,
+    "Buyer Ana": 96.75,
+    "Buyer Mia": 96.7,
+    "Buyer Amir": 96.8
+  },
+  "trades": [
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Jun",
+      "price": 96.77
+    }
+  ],
+  "seller_messages": {
+    "Seller Lena": "The first trade has cleared with buyers matching the lowest asks. The spread is extremely tight and buyers are showing strong intent. I'll keep monitoring closely for sudden moves or shifts in momentum as things are evolving quickly.",
+    "Seller Jun": "The first trade finally cleared at $96.73, signaling buyers are now willing to transact at these levels. I'll be watching carefully to see if this momentum continues and if buyers keep pushing bids higher.",
+    "Seller Jin": "A trade finally cleared last hour as buyers reached seller levels. With bids remaining high and buyer momentum strong, I'll stay alert for any rapid changes in market direction or sudden adjustments in the ask queue.",
+    "Seller Nia": "The first trade finally happened as a buyer crossed the spread. With buying momentum strong, I'll be watching for any changes in bidding tactics or shifts in demand as the market reacts. Staying alert for sudden moves from buyers seems wise.",
+    "Seller Omar": "Noticed the first trade clear just below our current asks—buyers are clearly ready to transact when the price is right. I'll be watching closely for any follow-up trades or sudden shifts from either side as we move forward."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 10
+````json
+{
+  "round_number": 10,
+  "seller_asks": {
+    "Seller Jun": 96.92,
+    "Seller Jin": 96.92,
+    "Seller Nia": 96.96,
+    "Seller Lena": 96.91,
+    "Seller Omar": 97.0
+  },
+  "buyer_bids": {
+    "Buyer Tara": 96.7,
+    "Buyer Leo": 96.9,
+    "Buyer Ana": 97.0,
+    "Buyer Amir": 96.95,
+    "Buyer Mia": 96.8
+  },
+  "trades": [
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Lena",
+      "price": 96.95
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Jin",
+      "price": 96.94
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Buyers continue to bid aggressively, with the spread at its tightest yet. I'll be keeping a close watch for any changes in bidding tactics or sudden moves in the ask queue as the market remains very active.",
+    "Seller Jin": "The market remains tight as buyers continue to show strong intent, keeping bids close to current ask levels. I'll be watching for any rapid changes in bidding behavior or shifts in the queue that could signal the next move.",
+    "Seller Nia": "Buyer activity remains strong with bids staying close to ask levels and another trade clearing just above recent prices. The spread is tight and the pace has picked up. I'll be watching closely for any sudden shifts from buyers or changes in queue dynamics.",
+    "Seller Lena": "The market is moving quickly with consecutive trades as buyers remain aggressive. I'll be keeping a close eye on any sudden changes in bidding or ask activity as momentum continues.",
+    "Seller Omar": "The spread remains extremely tight with buyers still showing strong intent near current ask levels. I'll keep a close watch for any sudden changes in bidding or ask adjustments, as momentum could shift quickly in either direction."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 11
+````json
+{
+  "round_number": 11,
+  "seller_asks": {
+    "Seller Jin": 96.96,
+    "Seller Nia": 96.98,
+    "Seller Lena": 96.91,
+    "Seller Omar": 97.0,
+    "Seller Jun": 96.92
+  },
+  "buyer_bids": {
+    "Buyer Leo": 96.92,
+    "Buyer Tara": 96.95,
+    "Buyer Ana": 97.05,
+    "Buyer Mia": 96.95,
+    "Buyer Amir": 97.01
+  },
+  "trades": [
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Lena",
+      "price": 96.98
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Jun",
+      "price": 96.97
+    }
+  ],
+  "seller_messages": {
+    "Seller Jin": "Market activity remains intense with buyers holding bids close to current asks. I'll continue to watch for any changes in pace or queue positioning as the session progresses.",
+    "Seller Nia": "Buyer interest remains strong and the spread is still extremely narrow. I'll continue monitoring for any sudden changes in buyer behavior or shifts in the ask queue that could signal the next move.",
+    "Seller Lena": "The pace remains brisk with buyers maintaining strong bids near the current ask levels. I'll be keeping a close eye on any rapid shifts in either queue, as the market could move quickly in response.",
+    "Seller Omar": "Buyer demand remains robust and the spread is extremely tight, with bids holding near ask levels. I'll continue to monitor for any abrupt moves in bidding or shifts in the ask queue, as the market remains dynamic and momentum could change quickly.",
+    "Seller Jun": "Buyer bids remain strong and very close to the current ask levels. The market is still very active, and the spread is tight. I'll be watching closely for any sudden shifts in buyer tactics or changes in queue positioning as momentum could shift quickly."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 12
+````json
+{
+  "round_number": 12,
+  "seller_asks": {
+    "Seller Jun": 96.96,
+    "Seller Nia": 96.96,
+    "Seller Jin": 96.96,
+    "Seller Lena": 96.95,
+    "Seller Omar": 96.95
+  },
+  "buyer_bids": {
+    "Buyer Leo": 96.99,
+    "Buyer Amir": 97.03,
+    "Buyer Mia": 97.0,
+    "Buyer Ana": 97.08,
+    "Buyer Tara": 96.95
+  },
+  "trades": [
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Lena",
+      "price": 97.02
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Omar",
+      "price": 96.99
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Mia",
+      "seller_id": "Seller Jin",
+      "price": 96.98
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Jun",
+      "price": 96.97
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "The spread remains exceptionally narrow with buyers consistently bidding close to ask levels. I'll be watching for any sudden shifts in buyer behavior or queue positioning, as momentum could change swiftly in this environment.",
+    "Seller Nia": "Buyers remain engaged and the spread is still exceptionally tight. I'll continue monitoring for any abrupt shifts in bids or changes in the ask queue that could impact positioning.",
+    "Seller Jin": "The market remains exceptionally tight with buyers consistently holding bids close to ask levels. Staying vigilant and maintaining flexible queue positions will be essential as we approach the final hours.",
+    "Seller Lena": "The market remains extremely tight with bids and asks nearly matched. Activity is brisk and positioning in the queue appears to be key for trade execution. I'll be closely watching for any quick changes in buyer or seller behavior.",
+    "Seller Omar": "Market momentum remains strong with bids closely matching asks. As we approach the final hours, even small shifts in queue positioning could influence outcomes. I'll be watching closely for any changes in buyer pace or bid aggressiveness."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 13
+````json
+{
+  "round_number": 13,
+  "seller_asks": {
+    "Seller Nia": 96.96,
+    "Seller Jin": 96.96,
+    "Seller Jun": 96.96,
+    "Seller Omar": 96.96,
+    "Seller Lena": 96.95
+  },
+  "buyer_bids": {
+    "Buyer Ana": 97.07,
+    "Buyer Leo": 96.97,
+    "Buyer Amir": 96.97,
+    "Buyer Mia": 97.05,
+    "Buyer Tara": 97.05
+  },
+  "trades": [
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Lena",
+      "price": 97.01
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Jin",
+      "price": 97.0
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Mia",
+      "seller_id": "Seller Jun",
+      "price": 97.0
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Nia",
+      "price": 96.97
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Omar",
+      "price": 96.97
+    }
+  ],
+  "seller_messages": {
+    "Seller Nia": "The market remains extremely tight with buyers holding bids near ask levels. With just a few hours left, I'll be watching bid activity and queue positioning closely to adapt quickly to any shifts.",
+    "Seller Jin": "The market continues to show strong buyer engagement with spreads remaining extremely tight. Staying alert for abrupt changes in bid or ask activity will be crucial as we approach the final hours of the session.",
+    "Seller Jun": "The spread remains tight and buyers are still bidding very close to asks. With only a few hours left, I'll be focusing on queue position and watching for any sudden shifts in buyer activity.",
+    "Seller Omar": "Market conditions remain extremely close with buyers keeping bids high and execution hinging on ask queue placement. I'll be monitoring closely for any last-minute shifts as we approach the session's final hours.",
+    "Seller Lena": "The market remains exceptionally tight with brisk activity and minimal spread. Quick reactions to shifts in the queue or buyer bids could make a key difference in these final hours. I'll be watching closely for any abrupt changes in pace or positioning."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 14
+````json
+{
+  "round_number": 14,
+  "seller_asks": {
+    "Seller Nia": 96.96,
+    "Seller Jun": 97.01,
+    "Seller Jin": 96.96,
+    "Seller Lena": 96.95,
+    "Seller Omar": 96.96
+  },
+  "buyer_bids": {
+    "Buyer Amir": 96.98,
+    "Buyer Ana": 97.09,
+    "Buyer Leo": 97.08,
+    "Buyer Tara": 97.1,
+    "Buyer Mia": 97.05
+  },
+  "trades": [
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Lena",
+      "price": 97.03
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Jin",
+      "price": 97.03
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Nia",
+      "price": 97.02
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Mia",
+      "seller_id": "Seller Omar",
+      "price": 97.0
+    }
+  ],
+  "seller_messages": {
+    "Seller Nia": "With only a short time left in the session, market activity remains brisk and the spread is still narrow. I'll be closely watching the order flow and queue position to respond quickly if any sudden changes emerge in these final hours.",
+    "Seller Jun": "With just one hour left, market conditions remain extremely tight and competitive. Staying highly responsive to any last-minute changes in bid or ask activity will be key as we approach the close.",
+    "Seller Jin": "With just two hours left, the market remains active and the spread tight. Staying closely attuned to bid levels and queue positioning will be key to maximizing trade opportunities in these final hours.",
+    "Seller Lena": "Market activity remains brisk with buyers continuing to bid very near ask levels. With only one hour remaining, close attention to queue position and any sudden changes in bid or ask flows will be essential for optimal outcomes.",
+    "Seller Omar": "With spreads still razor-thin and strong buyer activity, I'll be watching for any late moves in bids or ask queues. Staying alert and ready to adjust quickly could be key as we head into the last hour."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 15
+````json
+{
+  "round_number": 15,
+  "seller_asks": {
+    "Seller Jin": 96.98,
+    "Seller Nia": 97.01,
+    "Seller Lena": 97.0,
+    "Seller Jun": 97.04,
+    "Seller Omar": 96.96
+  },
+  "buyer_bids": {
+    "Buyer Leo": 96.99,
+    "Buyer Amir": 97.02,
+    "Buyer Ana": 97.11,
+    "Buyer Tara": 97.11,
+    "Buyer Mia": 97.05
+  },
+  "trades": [
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Omar",
+      "price": 97.03
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Jin",
+      "price": 97.05
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Mia",
+      "seller_id": "Seller Lena",
+      "price": 97.03
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Nia",
+      "price": 97.02
+    }
+  ],
+  "seller_messages": {
+    "Seller Jin": "With the session closing, maintaining strong queue position and staying responsive to any last-minute shifts in bids or asks will be crucial. Good luck to everyone in this final hour.",
+    "Seller Nia": "As we enter the final hour, buyer activity remains robust and spreads are still tight. I'll be monitoring the queue and any late moves closely to make the most of these last trading opportunities.",
+    "Seller Lena": "With the session ending, the market remains highly active and every moment counts. Staying alert for any last-minute moves in the bid and ask queues could make all the difference. Wishing everyone a strong finish.",
+    "Seller Jun": "With the final hour underway, buyer demand remains strong and spreads are still tight. Staying focused and responsive to any last-minute bid or ask changes will be crucial as we wrap up the session.",
+    "Seller Omar": "With the final hour underway and buyer activity still strong, I'll be watching for any last-minute shifts in bids or queue positioning. Staying agile and vigilant now is key to optimizing outcomes as trading wraps up."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````

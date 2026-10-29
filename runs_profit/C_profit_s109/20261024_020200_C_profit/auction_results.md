@@ -1,0 +1,675 @@
+
+## Auction Results: Round 1
+````json
+{
+  "round_number": 1,
+  "seller_asks": {
+    "Seller Raj": 96.7,
+    "Seller Kai": 98.0,
+    "Seller Max": 97.78,
+    "Seller Zoe": 97.38,
+    "Seller Ana": 96.74
+  },
+  "buyer_bids": {
+    "Buyer Theo": 82.0,
+    "Buyer Tara": 85.0,
+    "Buyer Nia": 95.0,
+    "Buyer Jun": 83.5,
+    "Buyer Maya": 84.0
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Zoe": "Looks like buyers are starting out cautiously below us. Let’s see how demand shapes up as the session progresses. Good luck to all this hour.",
+    "Seller Max": "Market seems quiet so far—no trades yet. Let’s see how buyers respond to these levels before making any big moves.",
+    "Seller Raj": "Market looks wide at the open—let's keep an eye on how aggressively buyers move up over the next hour.",
+    "Seller Ana": "Looks like buyers are starting out pretty far below the ask queue. Curious to see if bids move upward as the session progresses.",
+    "Seller Kai": "Interesting start—buyers seem to be holding back for now. Let's watch how the first few hours develop before making any big moves."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 2
+````json
+{
+  "round_number": 2,
+  "seller_asks": {
+    "Seller Ana": 96.74,
+    "Seller Max": 97.78,
+    "Seller Kai": 96.65,
+    "Seller Zoe": 97.38,
+    "Seller Raj": 96.6
+  },
+  "buyer_bids": {
+    "Buyer Jun": 84.25,
+    "Buyer Tara": 88.0,
+    "Buyer Theo": 85.5,
+    "Buyer Nia": 95.0,
+    "Buyer Maya": 87.0
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Ana": "Quiet so far—still no trades in this opening stretch. Let's see if buyers start bridging the gap in the next round.",
+    "Seller Max": "No changes on my end—buyers still staying below our asks. Will be interesting to see if they get more active or if any new bids come in higher next hour.",
+    "Seller Kai": "Still a big gap between bids and asks—looks like buyers are staying patient for now. Let’s keep watching how they respond as the hours progress.",
+    "Seller Zoe": "Still no trades so far—seems like buyers are waiting to see how the market develops. Let’s keep an eye out for any shifts in demand before making big changes. Wishing everyone steady progress.",
+    "Seller Raj": "Still no trades with buyers holding firm below us. Market seems to be in a feeling-out phase—let’s see if bids move up in the next round. Good luck this hour."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 3
+````json
+{
+  "round_number": 3,
+  "seller_asks": {
+    "Seller Raj": 96.55,
+    "Seller Ana": 96.74,
+    "Seller Zoe": 97.38,
+    "Seller Max": 97.78,
+    "Seller Kai": 96.7
+  },
+  "buyer_bids": {
+    "Buyer Nia": 96.0,
+    "Buyer Jun": 85.75,
+    "Buyer Tara": 91.0,
+    "Buyer Theo": 87.5,
+    "Buyer Maya": 89.5
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Raj": "No trades again this hour—buyers are still holding their ground. Let’s keep monitoring for any signs of upward movement from their side before making big adjustments. Wishing everyone a steady session.",
+    "Seller Ana": "Market remains quiet—no trades yet and buyers still holding back. Let’s keep monitoring for any shifts in demand or buyer aggression before making big moves. Wishing everyone a steady hour.",
+    "Seller Zoe": "Another quiet hour—buyers raised bids a bit but still no trades. Looks like the market is still finding its pace. Let’s keep watching for any signs of momentum or shifts from the buyers’ side.",
+    "Seller Max": "Buyers are raising bids slowly, but still not matching our asks. No signs of trades yet—market remains cautious on both sides. Staying alert for any shifts in the coming round.",
+    "Seller Kai": "Market still looks stable with no urgency from buyers so far. Let’s keep watching for any signs of movement from their side—could signal when it’s time for us to adjust. Wishing everyone a good hour ahead."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 4
+````json
+{
+  "round_number": 4,
+  "seller_asks": {
+    "Seller Raj": 96.5,
+    "Seller Ana": 96.74,
+    "Seller Max": 97.78,
+    "Seller Kai": 96.7,
+    "Seller Zoe": 97.38
+  },
+  "buyer_bids": {
+    "Buyer Nia": 96.5,
+    "Buyer Maya": 91.0,
+    "Buyer Jun": 88.0,
+    "Buyer Tara": 93.0,
+    "Buyer Theo": 89.0
+  },
+  "trades": [
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 96.5
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "Still no trades and the market remains steady. Buyers haven’t shifted much—let’s keep watching for any signs of change in their approach. Hope everyone has a smooth hour.",
+    "Seller Ana": "Buyers continue inching bids up, but still no matches. Looks like patience is keeping margins strong for now—let’s keep tracking for any signs of urgency from their side. Staying alert for any momentum shift.",
+    "Seller Max": "Market continues to show steady buyer interest with incremental bid increases—still no trades yet. Let’s keep monitoring for any momentum on their side. Wishing everyone a steady session ahead.",
+    "Seller Kai": "Buyers continue to inch bids upward, but we’re still not seeing any trades cross the threshold. Market remains steady—let’s keep watching for signs of real buyer movement before making major changes. Wishing everyone a smooth hour ahead.",
+    "Seller Zoe": "Another steady session—buyers nudged their bids up, but still no trades. The market seems cautious on both sides, so I’m holding steady and watching for any signs of a shift. Wishing everyone a good hour ahead."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 5
+````json
+{
+  "round_number": 5,
+  "seller_asks": {
+    "Seller Max": 96.74,
+    "Seller Raj": 96.49,
+    "Seller Zoe": 96.72,
+    "Seller Kai": 96.69,
+    "Seller Ana": 96.74
+  },
+  "buyer_bids": {
+    "Buyer Nia": 96.75,
+    "Buyer Tara": 94.5,
+    "Buyer Maya": 92.5,
+    "Buyer Theo": 90.0,
+    "Buyer Jun": 89.5
+  },
+  "trades": [
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Raj",
+      "price": 96.62
+    }
+  ],
+  "seller_messages": {
+    "Seller Max": "Noticed the first trade at $96.5—looks like buyers are starting to meet us closer to our levels. Let’s keep a close eye on their next moves and stay alert for any momentum shifts. Wishing everyone a productive hour ahead.",
+    "Seller Raj": "Market remains steady after last hour’s trade. Not seeing major shifts from buyers or sellers yet—let’s keep watching for any signs of increased activity or urgency. Wishing everyone a smooth session.",
+    "Seller Zoe": "Noticed the recent trade at $96.5—seems buyers are starting to move closer to our range. Will keep watching for any further activity or shifts in bidding. Hope everyone’s hour goes smoothly.",
+    "Seller Kai": "Noticed the recent trade—seems buyers are becoming more active as the spread narrows. Market feels a bit tighter now, so I’ll be watching closely for any further shifts in buyer bids or seller positioning. Wishing everyone a productive hour ahead.",
+    "Seller Ana": "Noticed the trade at $96.5 last hour—buyers are definitely getting closer. I'm holding steady this hour but staying alert for any momentum shifts from buyers or sellers. Let's keep monitoring the pace of changes."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 6
+````json
+{
+  "round_number": 6,
+  "seller_asks": {
+    "Seller Max": 96.68,
+    "Seller Kai": 96.68,
+    "Seller Zoe": 96.68,
+    "Seller Raj": 96.68,
+    "Seller Ana": 96.68
+  },
+  "buyer_bids": {
+    "Buyer Nia": 96.8,
+    "Buyer Theo": 91.5,
+    "Buyer Tara": 95.5,
+    "Buyer Jun": 90.5,
+    "Buyer Maya": 94.0
+  },
+  "trades": [
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Ana",
+      "price": 96.74
+    }
+  ],
+  "seller_messages": {
+    "Seller Max": "Market continues to feel tight, with buyers slowly inching upward and sellers making small adjustments. I’m watching for any signs of increased momentum or buyers moving more aggressively. Hope everyone has a productive and smooth hour ahead.",
+    "Seller Kai": "Noticing buyers are gradually increasing their bids and activity remains steady. Will be watching closely to see if the pace continues or if we see any sharper moves. Wishing everyone another successful hour.",
+    "Seller Zoe": "Market continues to tighten with buyers meeting asks near $96.6. Remaining attentive to how the next few bids develop—let’s keep an eye on any further shifts in buyer activity or price moves. Wishing everyone a productive hour.",
+    "Seller Raj": "Market remains steady with incremental moves. Noticing that buyers are slowly edging upward, and sellers are holding disciplined positions. Keeping an eye out for any notable shifts from either side. Wishing everyone a smooth and productive hour.",
+    "Seller Ana": "Market's holding steady and buyers are gradually moving closer to our asks. No major shifts yet, but I'll keep watching for any signs of increased urgency or changes in buyer bids. Wishing everyone a smooth and productive hour ahead."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 7
+````json
+{
+  "round_number": 7,
+  "seller_asks": {
+    "Seller Max": 96.67,
+    "Seller Zoe": 96.67,
+    "Seller Kai": 96.67,
+    "Seller Ana": 96.67,
+    "Seller Raj": 96.68
+  },
+  "buyer_bids": {
+    "Buyer Maya": 95.25,
+    "Buyer Nia": 96.85,
+    "Buyer Tara": 96.2,
+    "Buyer Jun": 94.5,
+    "Buyer Theo": 93.0
+  },
+  "trades": [
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Ana",
+      "price": 96.76
+    }
+  ],
+  "seller_messages": {
+    "Seller Max": "Market continues to show steady buyer interest with incremental bid increases. Staying alert for any signs of increased momentum or shifts in buyer urgency. Wishing everyone a productive and successful hour ahead.",
+    "Seller Zoe": "Market continues to show steady movement with buyers incrementally increasing bids and asks remaining close together. Staying attentive to any changes in demand or pace—looking forward to seeing how things develop this hour. Wishing everyone a productive session.",
+    "Seller Kai": "Market remains steady with sellers closely aligned near $96.68. I'll be watching for any sign of increased buyer urgency or shifts in ask positioning. Wishing everyone another productive hour ahead.",
+    "Seller Ana": "Market remains tightly balanced with buyers holding steady just below our ask levels. Noticing continued firmness in buyer activity—will be keeping a close watch for any sudden shifts or acceleration as the session progresses. Wishing everyone a productive hour ahead.",
+    "Seller Raj": "Market continues to show steady behavior with buyers incrementally raising bids but still below ask levels. No major shifts on either side yet. Remaining attentive in case we see any significant changes in buyer or seller actions. Wishing everyone a successful hour ahead."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 8
+````json
+{
+  "round_number": 8,
+  "seller_asks": {
+    "Seller Raj": 96.68,
+    "Seller Zoe": 96.67,
+    "Seller Max": 96.66,
+    "Seller Ana": 96.67,
+    "Seller Kai": 96.66
+  },
+  "buyer_bids": {
+    "Buyer Nia": 96.86,
+    "Buyer Tara": 96.7,
+    "Buyer Jun": 95.75,
+    "Buyer Maya": 95.25,
+    "Buyer Theo": 94.0
+  },
+  "trades": [
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Kai",
+      "price": 96.76
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Max",
+      "price": 96.68
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "Market remains steady with buyer bids continuing to rise gradually, though still just below current ask levels. No major shifts observed yet—will be closely monitoring for any signs of increased urgency or changes in pace. Wishing everyone a productive and successful hour ahead.",
+    "Seller Zoe": "Market remains tightly balanced with asks and bids continuing their gradual convergence. Observing steady buyer interest just below our current ask levels—will keep watching for any signs of accelerated demand or price movement. Wishing everyone a productive and successful hour ahead.",
+    "Seller Max": "Market continues to show steady buyer engagement with bids gradually increasing toward current ask levels. Sellers remain closely aligned, and I'll be watching for any notable changes in buyer urgency or market tempo. Wishing everyone a productive and successful hour ahead.",
+    "Seller Ana": "Market remains balanced, with both sides holding steady and buyers continuing to approach ask levels. Keeping close watch for any acceleration or sudden changes in buyer urgency. Wishing everyone a productive and steady hour ahead.",
+    "Seller Kai": "Market remains tightly grouped with sellers and buyers maintaining a narrow spread. I'll be watching closely for any shifts in buyer activity or changes in the pace of bids. Wishing everyone another productive hour ahead."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 9
+````json
+{
+  "round_number": 9,
+  "seller_asks": {
+    "Seller Raj": 96.68,
+    "Seller Max": 96.66,
+    "Seller Zoe": 96.67,
+    "Seller Kai": 96.65,
+    "Seller Ana": 96.67
+  },
+  "buyer_bids": {
+    "Buyer Theo": 95.5,
+    "Buyer Nia": 96.87,
+    "Buyer Maya": 95.8,
+    "Buyer Jun": 96.5,
+    "Buyer Tara": 96.8
+  },
+  "trades": [
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Kai",
+      "price": 96.76
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Max",
+      "price": 96.73
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "Market holding steady with buyers gradually increasing bids but still just below our ask levels. Observing a continued balanced tempo—will keep monitoring for any signs of increased buyer urgency or shifts in pace. Wishing everyone another productive hour ahead.",
+    "Seller Max": "Market remains steady with sellers holding firm and buyers continuing their gradual ascent toward current ask levels. I'll be closely monitoring for any notable changes in buyer activity or shifts in pace. Wishing everyone a productive and steady hour ahead.",
+    "Seller Zoe": "Market continues to hold steady with sellers and buyers remaining closely aligned in price. Buyer bids remain firm and are gradually approaching ask levels. Will be watching closely for any signs of increased urgency or notable shifts in activity. Wishing everyone a productive and successful hour ahead.",
+    "Seller Kai": "Market continues to display steady buyer engagement, with asks remaining closely grouped. I'll be keeping a close watch for any changes in buyer urgency or shifts in the pace of bidding. Wishing everyone another productive and smooth trading hour ahead.",
+    "Seller Ana": "Market stability persists, with both seller asks and buyer bids remaining tightly grouped. Buyers continue to show steady interest just below current ask levels. Staying attentive to any signs of increased urgency or changes in buyer approach. Wishing everyone another productive and steady hour ahead."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 10
+````json
+{
+  "round_number": 10,
+  "seller_asks": {
+    "Seller Zoe": 96.67,
+    "Seller Max": 96.66,
+    "Seller Raj": 96.68,
+    "Seller Kai": 96.64,
+    "Seller Ana": 96.67
+  },
+  "buyer_bids": {
+    "Buyer Nia": 96.68,
+    "Buyer Tara": 96.9,
+    "Buyer Jun": 96.7,
+    "Buyer Maya": 96.85,
+    "Buyer Theo": 96.0
+  },
+  "trades": [
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Kai",
+      "price": 96.77
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Maya",
+      "seller_id": "Seller Max",
+      "price": 96.75
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Ana",
+      "price": 96.69
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Zoe",
+      "price": 96.68
+    }
+  ],
+  "seller_messages": {
+    "Seller Zoe": "Market continues to display steady alignment between seller asks and buyer bids, with both remaining closely grouped. Monitoring for any signs of increased buyer activity or urgency. Wishing everyone a productive and smooth trading hour ahead.",
+    "Seller Max": "Market remains steady with sellers maintaining closely grouped asks and buyers showing consistent interest just below current levels. I'll be watching for any signs of changing buyer urgency or shifts in the pace of activity. Wishing everyone a productive and stable trading hour ahead.",
+    "Seller Raj": "Market continues to display a steady pace with buyers raising bids but still just below ask levels. I'll be monitoring closely for any shift in buyer urgency or notable changes in bidding behavior. Wishing everyone another productive and stable hour ahead.",
+    "Seller Kai": "Market continues to display steady buyer participation with bids gradually approaching current ask levels. The pace remains measured, and I'll be monitoring for any signs of increased buyer urgency or notable shifts in activity. Wishing everyone another productive and steady trading hour ahead.",
+    "Seller Ana": "Market stability persists, with both seller asks and buyer bids remaining tightly grouped. Buyers continue to show steady interest just below current ask levels. Staying attentive to any signs of increased urgency or changes in buyer approach. Wishing everyone another productive and steady hour ahead."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 11
+````json
+{
+  "round_number": 11,
+  "seller_asks": {
+    "Seller Ana": 96.67,
+    "Seller Zoe": 96.66,
+    "Seller Raj": 96.68,
+    "Seller Max": 96.66,
+    "Seller Kai": 96.63
+  },
+  "buyer_bids": {
+    "Buyer Nia": 96.68,
+    "Buyer Jun": 96.7,
+    "Buyer Theo": 96.6,
+    "Buyer Maya": 96.7,
+    "Buyer Tara": 96.95
+  },
+  "trades": [
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Kai",
+      "price": 96.79
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Maya",
+      "seller_id": "Seller Max",
+      "price": 96.68
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Zoe",
+      "price": 96.68
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Ana",
+      "price": 96.68
+    }
+  ],
+  "seller_messages": {
+    "Seller Ana": "Market conditions remain steady with sellers and buyers closely aligned in price. I'll continue to monitor for any shifts in buyer urgency or notable changes in bidding patterns. Wishing everyone a stable and productive trading hour ahead.",
+    "Seller Zoe": "Market continues to display steady alignment between seller asks and buyer bids, with both remaining closely grouped. Remaining watchful for any changes in buyer urgency or notable shifts in market activity. Wishing everyone a smooth and productive trading hour ahead.",
+    "Seller Raj": "Market stability continues as seller asks and buyer bids remain closely grouped. Buyers are steadily increasing bids but have yet to cross into trade territory. I'll be watching for any signs of increased urgency. Wishing everyone another steady and productive hour ahead.",
+    "Seller Max": "Market conditions remain steady, with seller asks and buyer bids closely grouped. I'll be watching for any shifts in buyer urgency or notable changes in the pace of trades. Wishing everyone a productive and steady hour ahead.",
+    "Seller Kai": "Market continues to display steady participation with both asks and bids closely aligned. I'll be monitoring for any emerging trends in buyer behavior or shifts in pace. Wishing everyone another productive and stable trading hour ahead."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 12
+````json
+{
+  "round_number": 12,
+  "seller_asks": {
+    "Seller Max": 96.66,
+    "Seller Ana": 96.67,
+    "Seller Raj": 96.68,
+    "Seller Zoe": 96.67,
+    "Seller Kai": 96.67
+  },
+  "buyer_bids": {
+    "Buyer Nia": 96.68,
+    "Buyer Maya": 96.7,
+    "Buyer Jun": 96.75,
+    "Buyer Theo": 96.67,
+    "Buyer Tara": 96.65
+  },
+  "trades": [
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Max",
+      "price": 96.7
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Maya",
+      "seller_id": "Seller Ana",
+      "price": 96.69
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Kai",
+      "price": 96.68
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Zoe",
+      "price": 96.67
+    }
+  ],
+  "seller_messages": {
+    "Seller Max": "Market continues to display close alignment between seller asks and buyer bids, offering steady trading conditions. I'll remain observant for any signs of changing buyer urgency or shifts in the pace of trades. Wishing everyone another productive and stable hour ahead.",
+    "Seller Ana": "Market conditions remain steady, with sellers and buyers closely aligned in price. I'll continue to watch for any signs of increased buyer urgency or shifts in bidding patterns. Wishing everyone a smooth and productive trading hour ahead.",
+    "Seller Raj": "Market remains tightly grouped with a very narrow spread between top bids and asks. I'll be watching closely for any signs of increased buyer urgency or shifting bidding patterns. Hoping for a productive and steady hour ahead for everyone.",
+    "Seller Zoe": "Market remains steady with close alignment between asks and bids. I'll be keeping a close eye on buyer activity for any signs of increased urgency or shifting trends. Wishing everyone a productive and smooth trading hour ahead.",
+    "Seller Kai": "Market remains steady with close alignment between asks and bids. I'll be watching for any shifts in buyer behavior or notable changes in trade activity. Wishing everyone continued steady and productive trading."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 13
+````json
+{
+  "round_number": 13,
+  "seller_asks": {
+    "Seller Max": 96.66,
+    "Seller Kai": 96.66,
+    "Seller Zoe": 96.67,
+    "Seller Ana": 96.67,
+    "Seller Raj": 96.68
+  },
+  "buyer_bids": {
+    "Buyer Nia": 96.68,
+    "Buyer Jun": 96.7,
+    "Buyer Theo": 96.69,
+    "Buyer Maya": 96.66,
+    "Buyer Tara": 96.7
+  },
+  "trades": [
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Kai",
+      "price": 96.68
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Max",
+      "price": 96.68
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Ana",
+      "price": 96.68
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Zoe",
+      "price": 96.68
+    }
+  ],
+  "seller_messages": {
+    "Seller Max": "Market conditions continue to show remarkable stability, with sellers and buyers closely aligned. I'll remain attentive for any signs of changing buyer urgency or shifts in the pace of trades. Wishing everyone a productive and steady trading hour ahead.",
+    "Seller Kai": "Market continues to display tight alignment between seller asks and buyer bids. I'll be monitoring for any signs of shifting buyer urgency or changes in trade activity. Wishing everyone a stable and productive trading hour ahead.",
+    "Seller Zoe": "Market remains closely aligned, with sellers and buyers maintaining tight spreads. I'll keep monitoring for any shifts in buyer urgency or changes in trade activity. Wishing everyone another productive and steady hour ahead.",
+    "Seller Ana": "Market continues to display stability with a very narrow spread between asks and bids. I'll be watching for any signs of increased buyer urgency or notable changes in the pace of trades. Wishing everyone a smooth and productive trading hour ahead.",
+    "Seller Raj": "Market remains steady with an extremely narrow spread between top bids and asks. I'll be watching closely for any signs of increased buyer urgency or shifting patterns. Wishing everyone a productive and smooth hour ahead."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 14
+````json
+{
+  "round_number": 14,
+  "seller_asks": {
+    "Seller Zoe": 96.67,
+    "Seller Max": 96.66,
+    "Seller Ana": 96.68,
+    "Seller Raj": 96.68,
+    "Seller Kai": 96.67
+  },
+  "buyer_bids": {
+    "Buyer Tara": 96.7,
+    "Buyer Jun": 96.67,
+    "Buyer Nia": 96.68,
+    "Buyer Theo": 96.69,
+    "Buyer Maya": 96.69
+  },
+  "trades": [
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Max",
+      "price": 96.68
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Kai",
+      "price": 96.68
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Maya",
+      "seller_id": "Seller Zoe",
+      "price": 96.68
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Ana",
+      "price": 96.68
+    }
+  ],
+  "seller_messages": {
+    "Seller Zoe": "Market remains exceptionally stable with a narrow spread between asks and bids. I'll continue to watch for any signs of increased buyer urgency or late-session shifts. Wishing everyone a productive and steady trading hour ahead.",
+    "Seller Max": "Market conditions remain remarkably stable, with tight spreads and ongoing buyer engagement. I'll be keeping a close watch for any late-session shifts in buyer behavior or trade pace. Wishing everyone a successful and steady penultimate trading hour.",
+    "Seller Ana": "Market conditions continue to show a tight spread and steady alignment between sellers and buyers. I'll be closely watching for any changes in buyer behavior or urgency as we approach the end of the session. Wishing everyone a productive and smooth hour ahead.",
+    "Seller Raj": "Market remains tightly aligned, with sellers and buyers still within a very narrow spread. I'll continue to monitor for any signs of increased buyer urgency or shifts in trading patterns as we approach the session's end. Wishing everyone a steady and productive hour ahead.",
+    "Seller Kai": "Market conditions remain tightly grouped, with buyers and sellers maintaining a narrow spread and consistent trade activity. I'll be watching closely for any last-minute shifts as we approach the end of the session. Wishing everyone a smooth and successful trading hour ahead."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 15
+````json
+{
+  "round_number": 15,
+  "seller_asks": {
+    "Seller Kai": 96.68,
+    "Seller Max": 96.66,
+    "Seller Zoe": 96.67,
+    "Seller Raj": 96.67,
+    "Seller Ana": 96.68
+  },
+  "buyer_bids": {
+    "Buyer Tara": 96.7,
+    "Buyer Jun": 96.71,
+    "Buyer Maya": 96.69,
+    "Buyer Nia": 96.68,
+    "Buyer Theo": 96.69
+  },
+  "trades": [
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Jun",
+      "seller_id": "Seller Max",
+      "price": 96.69
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Tara",
+      "seller_id": "Seller Raj",
+      "price": 96.69
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Zoe",
+      "price": 96.68
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Maya",
+      "seller_id": "Seller Ana",
+      "price": 96.69
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Nia",
+      "seller_id": "Seller Kai",
+      "price": 96.68
+    }
+  ],
+  "seller_messages": {
+    "Seller Kai": "As we enter the final trading hour, the market remains tightly grouped with steady buyer interest and minimal spread. I'll be watching closely for any late-session changes and wish everyone a successful and smooth session close.",
+    "Seller Max": "As we reach the final trading hour, it's been a pleasure observing such a stable and professional market. Wishing everyone a strong and successful finish to the session. Let's close out with continued steady trading.",
+    "Seller Zoe": "As we reach the session's conclusion, it's been a remarkably stable market with consistent buyer engagement. Wishing everyone a successful close and productive results as we wrap up Hour 15.",
+    "Seller Raj": "Market remains highly competitive with an exceptionally tight spread as we close out the session. I'll be watching closely for any final shifts in buyer activity and wish everyone a strong and successful finish to the trading period.",
+    "Seller Ana": "As we enter the final session hour, the market remains stable with tight alignment between asks and bids. I'll be watching closely for any last-minute shifts in buyer urgency. Wishing everyone a smooth and successful conclusion to trading."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````

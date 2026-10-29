@@ -1,0 +1,729 @@
+
+## Auction Results: Round 1
+````json
+{
+  "round_number": 1,
+  "seller_asks": {
+    "Seller Amir": 96.18,
+    "Seller Zoe": 96.18,
+    "Seller Nia": 97.78,
+    "Seller Raj": 96.19,
+    "Seller Ana": 96.27
+  },
+  "buyer_bids": {
+    "Buyer Max": 90.0,
+    "Buyer Lena": 85.0,
+    "Buyer Theo": 84.0,
+    "Buyer Kai": 83.7,
+    "Buyer Wei": 84.0
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Ana": "Wishing everyone a productive opening session. Looking forward to an active and fair market today.",
+    "Seller Amir": "Wishing everyone a productive session. Let's have a smooth trading day.",
+    "Seller Nia": "Hello fellow sellers! Wishing everyone a productive start to the session. Looking forward to a dynamic trading day.",
+    "Seller Raj": "Wishing everyone a productive and fair trading session. Let’s all do our best for our respective teams.",
+    "Seller Zoe": "Wishing everyone a productive first hour! Looking forward to seeing how the market develops."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 2
+````json
+{
+  "round_number": 2,
+  "seller_asks": {
+    "Seller Ana": 96.17,
+    "Seller Raj": 96.18,
+    "Seller Zoe": 96.17,
+    "Seller Amir": 96.18,
+    "Seller Nia": 96.17
+  },
+  "buyer_bids": {
+    "Buyer Kai": 90.01,
+    "Buyer Lena": 87.5,
+    "Buyer Theo": 90.5,
+    "Buyer Wei": 85.01,
+    "Buyer Max": 92.0
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Ana": "Wishing everyone continued success as the session progresses. Let's keep the energy positive and productive for all involved.",
+    "Seller Raj": "Wishing everyone a productive second hour. Looking forward to seeing how buyer interest develops as the market progresses.",
+    "Seller Zoe": "Wishing everyone a successful and engaging second hour. Looking forward to an active session!",
+    "Seller Amir": "Wishing everyone a productive Hour 2. Looking forward to seeing how today's session evolves for all participants.",
+    "Seller Nia": "Wishing everyone continued success as the market gets underway. Looking forward to seeing some trades soon. Have a productive hour!"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 3
+````json
+{
+  "round_number": 3,
+  "seller_asks": {
+    "Seller Raj": 96.17,
+    "Seller Nia": 96.1,
+    "Seller Zoe": 95.17,
+    "Seller Ana": 96.16,
+    "Seller Amir": 96.18
+  },
+  "buyer_bids": {
+    "Buyer Theo": 91.0,
+    "Buyer Kai": 92.01,
+    "Buyer Lena": 93.5,
+    "Buyer Max": 93.5,
+    "Buyer Wei": 92.01
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Raj": "Wishing everyone a productive third hour. Let's keep our focus and determination strong as the session continues!",
+    "Seller Nia": "Wishing everyone a productive third hour. Looking forward to seeing some market activity pick up—best of luck to all as we move forward!",
+    "Seller Zoe": "Wishing everyone a productive and successful Hour 3. Looking forward to seeing how the market develops for all participants!",
+    "Seller Ana": "Wishing everyone a successful and collaborative third hour. Let's keep the momentum going and strive for positive outcomes across the board.",
+    "Seller Amir": "Wishing everyone a productive and engaging Hour 3. It's interesting to see the market holding steady—looking forward to seeing how things develop for all participants!"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 4
+````json
+{
+  "round_number": 4,
+  "seller_asks": {
+    "Seller Zoe": 93.49,
+    "Seller Amir": 95.15,
+    "Seller Raj": 96.17,
+    "Seller Ana": 95.16,
+    "Seller Nia": 94.99
+  },
+  "buyer_bids": {
+    "Buyer Kai": 93.51,
+    "Buyer Max": 93.75,
+    "Buyer Wei": 92.01,
+    "Buyer Theo": 92.0,
+    "Buyer Lena": 94.0
+  },
+  "trades": [
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Zoe",
+      "price": 93.75
+    }
+  ],
+  "seller_messages": {
+    "Seller Zoe": "Wishing everyone a focused and productive Hour 4. Let's keep working towards positive outcomes and stay motivated as we move further into the session!",
+    "Seller Amir": "Wishing everyone a productive and successful Hour 4. Let's keep up the momentum and stay focused as the market continues to evolve!",
+    "Seller Raj": "Wishing everyone a successful and focused fourth hour! Let's stay patient and persistent as the market evolves—hoping to see some action for all soon.",
+    "Seller Ana": "Wishing everyone a productive and positive fourth hour. Let's keep striving for strong results and continued progress in the market!",
+    "Seller Nia": "Wishing everyone a productive Hour 4. Let's keep up the momentum and stay focused as we work toward successful outcomes!"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 5
+````json
+{
+  "round_number": 5,
+  "seller_asks": {
+    "Seller Zoe": 94.98,
+    "Seller Amir": 93.9,
+    "Seller Ana": 94.98,
+    "Seller Raj": 94.98,
+    "Seller Nia": 93.5
+  },
+  "buyer_bids": {
+    "Buyer Theo": 92.02,
+    "Buyer Kai": 93.76,
+    "Buyer Wei": 93.76,
+    "Buyer Lena": 94.5,
+    "Buyer Max": 94.0
+  },
+  "trades": [
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Nia",
+      "price": 94.0
+    },
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Amir",
+      "price": 93.95
+    }
+  ],
+  "seller_messages": {
+    "Seller Zoe": "Wishing everyone a productive and successful Hour 5! Let's keep up the focus and momentum as the market becomes more active. Stay persistent and best of luck with your strategies!",
+    "Seller Amir": "Wishing everyone a productive and adaptable Hour 5! As trades start emerging, let's stay focused and keep striving for strong outcomes. Good luck to all!",
+    "Seller Ana": "Wishing everyone a productive and positive Hour 5. Let's stay focused and keep striving for strong results as the market session continues!",
+    "Seller Raj": "Wishing everyone a focused and successful fifth hour! Let's stay adaptable and positive as the session progresses—hoping to see more opportunities open up for us all.",
+    "Seller Nia": "Wishing everyone a productive and positive Hour 5! Let's keep striving for success and stay focused as the market develops—here's to strong outcomes for all."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 6
+````json
+{
+  "round_number": 6,
+  "seller_asks": {
+    "Seller Raj": 93.77,
+    "Seller Amir": 94.89,
+    "Seller Ana": 94.25,
+    "Seller Nia": 94.89,
+    "Seller Zoe": 94.97
+  },
+  "buyer_bids": {
+    "Buyer Kai": 93.77,
+    "Buyer Wei": 93.77,
+    "Buyer Theo": 93.77,
+    "Buyer Lena": 94.0,
+    "Buyer Max": 94.1
+  },
+  "trades": [
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Raj",
+      "price": 93.94
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "Wishing everyone a focused and successful Hour 6! As activity increases, let's stay sharp and adaptable—here's to more opportunities and strong outcomes for all.",
+    "Seller Amir": "Wishing everyone a focused and successful Hour 6! Let's stay adaptive and persistent as the market evolves—hoping for productive outcomes for all.",
+    "Seller Ana": "Wishing everyone a focused and successful Hour 6! Let's keep adapting and stay persistent as the market evolves—hoping for more trading opportunities ahead for us all.",
+    "Seller Nia": "Wishing everyone a focused and productive Hour 6! As market activity increases, let's stay adaptable and persistent in our strategies—here's to strong outcomes and continued progress for all.",
+    "Seller Zoe": "Wishing everyone a focused and adaptable Hour 6! Let's stay resilient and positive as the market evolves—here's to continued progress and strong outcomes for all."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 7
+````json
+{
+  "round_number": 7,
+  "seller_asks": {
+    "Seller Amir": 94.19,
+    "Seller Raj": 93.99,
+    "Seller Ana": 93.9,
+    "Seller Zoe": 94.24,
+    "Seller Nia": 94.19
+  },
+  "buyer_bids": {
+    "Buyer Kai": 94.26,
+    "Buyer Theo": 94.01,
+    "Buyer Wei": 94.01,
+    "Buyer Lena": 94.25,
+    "Buyer Max": 94.15
+  },
+  "trades": [
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Ana",
+      "price": 94.08
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Raj",
+      "price": 94.12
+    }
+  ],
+  "seller_messages": {
+    "Seller Amir": "Wishing everyone a resilient and productive Hour 7! Let's stay adaptable as the market shifts—here's to seizing new opportunities and strong outcomes for all.",
+    "Seller Raj": "Wishing everyone a productive Hour 7! As the market tightens, let's remain adaptable and focused—here's to more opportunities and continued strong outcomes for all.",
+    "Seller Ana": "Wishing everyone a resilient and focused Hour 7! As competition tightens and opportunities arise, let's stay adaptable and persistent—here's to strong outcomes and learning from each other.",
+    "Seller Zoe": "Wishing everyone a productive and resilient Hour 7! Let's keep adapting our strategies and supporting a fair, dynamic market as we head into the midpoint—best of luck to all.",
+    "Seller Nia": "Wishing everyone a productive Hour 7! Let's stay resilient and adaptive as new opportunities arise—here's to steady progress and strong outcomes for all."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 8
+````json
+{
+  "round_number": 8,
+  "seller_asks": {
+    "Seller Nia": 94.18,
+    "Seller Amir": 94.18,
+    "Seller Zoe": 94.14,
+    "Seller Raj": 94.18,
+    "Seller Ana": 94.16
+  },
+  "buyer_bids": {
+    "Buyer Lena": 94.2,
+    "Buyer Theo": 94.16,
+    "Buyer Wei": 94.16,
+    "Buyer Max": 94.2,
+    "Buyer Kai": 94.2
+  },
+  "trades": [
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Zoe",
+      "price": 94.17
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Ana",
+      "price": 94.18
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Amir",
+      "price": 94.19
+    }
+  ],
+  "seller_messages": {
+    "Seller Nia": "Wishing everyone a focused and productive Hour 8! As competition intensifies, let's keep adapting, stay persistent, and make the most of the opportunities ahead—here's to steady progress for all.",
+    "Seller Amir": "Wishing everyone a determined and insightful Hour 8! As we progress, let's keep adapting and learning from each experience—here's to steady progress and shared growth for all.",
+    "Seller Zoe": "Wishing everyone a focused and resilient Hour 8! As we approach the midpoint, let's keep adapting and learning—here's to steady progress and strong outcomes for all.",
+    "Seller Raj": "Wishing everyone a focused and resilient Hour 8! As competition remains strong, let's keep adapting and striving for positive results—here's to learning and steady progress for all.",
+    "Seller Ana": "Wishing everyone a resilient and focused Hour 8! Let's stay adaptable and persistent as opportunities arise—here's to learning and strong outcomes for all."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 9
+````json
+{
+  "round_number": 9,
+  "seller_asks": {
+    "Seller Ana": 94.17,
+    "Seller Amir": 94.17,
+    "Seller Raj": 94.15,
+    "Seller Nia": 94.17,
+    "Seller Zoe": 94.17
+  },
+  "buyer_bids": {
+    "Buyer Kai": 94.19,
+    "Buyer Max": 94.17,
+    "Buyer Wei": 94.17,
+    "Buyer Theo": 94.2,
+    "Buyer Lena": 94.2
+  },
+  "trades": [
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Raj",
+      "price": 94.18
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Amir",
+      "price": 94.19
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Ana",
+      "price": 94.18
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Nia",
+      "price": 94.17
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Zoe",
+      "price": 94.17
+    }
+  ],
+  "seller_messages": {
+    "Seller Ana": "Wishing everyone a persistent and insightful Hour 9! As competition remains strong, let's continue to adapt and learn from each round—here's to steady progress and positive outcomes for all.",
+    "Seller Amir": "Wishing everyone a proactive and focused Hour 9! As competition sharpens, let's stay adaptable and persistent—may we all learn from each round and continue progressing together.",
+    "Seller Raj": "Wishing everyone a resilient and insightful Hour 9! As the market grows more dynamic, let's stay attentive and adaptable, making the most of every opportunity—here's to continued learning and progress for all.",
+    "Seller Nia": "Wishing everyone a strategic and determined Hour 9! As competition remains fierce and margins tight, let's keep adapting and learning from each move—here's to steady progress and sharp decision-making for all.",
+    "Seller Zoe": "Wishing everyone a focused and adaptive Hour 9! As competition remains strong, let's stay resilient and open to learning—here's to steady progress and strong outcomes for all."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 10
+````json
+{
+  "round_number": 10,
+  "seller_asks": {
+    "Seller Amir": 94.14,
+    "Seller Zoe": 94.16,
+    "Seller Raj": 94.16,
+    "Seller Nia": 94.16,
+    "Seller Ana": 94.16
+  },
+  "buyer_bids": {
+    "Buyer Lena": 94.2,
+    "Buyer Kai": 94.2,
+    "Buyer Theo": 94.21,
+    "Buyer Wei": 94.18,
+    "Buyer Max": 94.18
+  },
+  "trades": [
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Amir",
+      "price": 94.17
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Ana",
+      "price": 94.18
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Nia",
+      "price": 94.18
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Raj",
+      "price": 94.17
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Zoe",
+      "price": 94.17
+    }
+  ],
+  "seller_messages": {
+    "Seller Amir": "Wishing everyone a balanced and insightful Hour 10! As competition continues and opportunities arise, let's stay focused, adaptable, and committed to learning—here's to steady progress for all.",
+    "Seller Zoe": "Wishing everyone a focused and adaptable Hour 10! As competition continues, let's stay resilient and keep learning from each round—here's to steady progress and strong outcomes for all.",
+    "Seller Raj": "Wishing everyone continued adaptability and insight as we move into Hour 10! Let's keep learning from each round and stay focused on achieving positive outcomes together.",
+    "Seller Nia": "Wishing everyone an adaptive and strategic Hour 10! As we move into the final stretch, let's continue learning from each round and stay sharp—here's to thoughtful moves and steady progress for all.",
+    "Seller Ana": "Wishing everyone a sharp and adaptive Hour 10! As competition remains fierce and margins are tight, let's keep learning from each move and striving for steady progress—here's to insightful decisions and positive outcomes for all."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 11
+````json
+{
+  "round_number": 11,
+  "seller_asks": {
+    "Seller Raj": 94.13,
+    "Seller Amir": 94.15,
+    "Seller Nia": 94.15,
+    "Seller Ana": 94.19,
+    "Seller Zoe": 94.15
+  },
+  "buyer_bids": {
+    "Buyer Lena": 94.2,
+    "Buyer Kai": 94.2,
+    "Buyer Theo": 94.22,
+    "Buyer Wei": 94.19,
+    "Buyer Max": 94.18
+  },
+  "trades": [
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Raj",
+      "price": 94.17
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Amir",
+      "price": 94.18
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Nia",
+      "price": 94.18
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Zoe",
+      "price": 94.17
+    }
+  ],
+  "seller_messages": {
+    "Seller Raj": "Wishing everyone a thoughtful and strategic Hour 11! As we navigate this competitive landscape, let's continue learning and remain adaptable—here's to steady progress and insightful decisions for all.",
+    "Seller Amir": "Wishing everyone a focused and adaptive Hour 11! As competition continues, let's stay resilient and keep learning from each round—here's to steady progress and strong outcomes for all.",
+    "Seller Nia": "Wishing everyone a strategic and insightful Hour 11! As competition remains close and opportunities arise, let's keep learning, stay flexible, and make thoughtful moves—here's to continued progress and strong decision-making for all.",
+    "Seller Ana": "Wishing everyone a strategic and focused Hour 11! As we approach the final stretch, let's stay adaptable, keep learning, and make the most of each opportunity—here's to insightful decisions and strong outcomes for all.",
+    "Seller Zoe": "Wishing everyone a focused and resilient Hour 11! As competition stays strong and opportunities arise, let's keep learning and adapting—here's to steady progress and thoughtful moves for all."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 12
+````json
+{
+  "round_number": 12,
+  "seller_asks": {
+    "Seller Amir": 94.18,
+    "Seller Ana": 94.17,
+    "Seller Nia": 94.18,
+    "Seller Raj": 94.18,
+    "Seller Zoe": 94.18
+  },
+  "buyer_bids": {
+    "Buyer Wei": 94.19,
+    "Buyer Kai": 94.2,
+    "Buyer Theo": 94.23,
+    "Buyer Max": 94.18,
+    "Buyer Lena": 94.2
+  },
+  "trades": [
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Ana",
+      "price": 94.2
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Amir",
+      "price": 94.19
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Nia",
+      "price": 94.19
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Raj",
+      "price": 94.19
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Zoe",
+      "price": 94.18
+    }
+  ],
+  "seller_messages": {
+    "Seller Amir": "Wishing everyone a focused and strategic Hour 12! As competition intensifies and opportunities arise, let's stay adaptable, keep learning, and make thoughtful decisions for strong outcomes.",
+    "Seller Ana": "Wishing everyone a strategic and insightful Hour 12! As we move closer to the finish, let's stay alert to market trends, learn from recent results, and make thoughtful decisions—here's to continued progress and strong outcomes for all.",
+    "Seller Nia": "Wishing everyone a resilient and thoughtful Hour 12! As we approach the final rounds, let’s keep learning, adapt quickly, and make the most of each opportunity—here’s to strategic decisions and steady progress for all.",
+    "Seller Raj": "Wishing everyone an adaptable and focused Hour 12! As we approach the final rounds, let's remain thoughtful, learn from every move, and strive for our best results—here's to resilient strategies and insightful decisions for all.",
+    "Seller Zoe": "Wishing everyone a resilient and strategic Hour 12! As we head into the final stretch, let's continue to learn from each round and adapt—here's to thoughtful decisions and steady progress for all."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 13
+````json
+{
+  "round_number": 13,
+  "seller_asks": {
+    "Seller Ana": 94.17,
+    "Seller Amir": 94.16,
+    "Seller Nia": 94.17,
+    "Seller Raj": 94.17,
+    "Seller Zoe": 94.16
+  },
+  "buyer_bids": {
+    "Buyer Max": 94.18,
+    "Buyer Kai": 94.2,
+    "Buyer Lena": 94.2,
+    "Buyer Wei": 94.2,
+    "Buyer Theo": 94.25
+  },
+  "trades": [
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Amir",
+      "price": 94.2
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Zoe",
+      "price": 94.18
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Ana",
+      "price": 94.19
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Nia",
+      "price": 94.19
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Raj",
+      "price": 94.18
+    }
+  ],
+  "seller_messages": {
+    "Seller Ana": "Wishing everyone a thoughtful and adaptive Hour 13! As we approach the final stretch, let's stay focused, keep learning, and make strategic choices—here's to insightful decisions and steady progress for all.",
+    "Seller Amir": "Wishing everyone a sharp and adaptable Hour 13! As the final rounds approach, let's continue to learn from each move, stay focused, and strive for our best performance—here's to thoughtful decisions and steady progress for all.",
+    "Seller Nia": "Wishing everyone a focused and resourceful Hour 13! As we approach the final rounds, let's stay adaptable, keep learning, and make strategic decisions for strong outcomes. Here's to resilience and thoughtful moves as we near the finish line.",
+    "Seller Raj": "Wishing everyone an insightful and adaptable Hour 13! As the final rounds approach, let’s keep learning from each move and make thoughtful, strategic choices—here’s to resilient tactics and strong progress for all.",
+    "Seller Zoe": "Wishing everyone a sharp and thoughtful Hour 13! As we near the end, let’s keep adapting, learning from each other, and making strategic decisions—here’s to steady focus and the best possible outcomes for all."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 14
+````json
+{
+  "round_number": 14,
+  "seller_asks": {
+    "Seller Ana": 94.16,
+    "Seller Zoe": 94.17,
+    "Seller Raj": 94.16,
+    "Seller Nia": 94.15,
+    "Seller Amir": 94.15
+  },
+  "buyer_bids": {
+    "Buyer Theo": 94.25,
+    "Buyer Wei": 94.21,
+    "Buyer Max": 94.18,
+    "Buyer Lena": 94.2,
+    "Buyer Kai": 94.2
+  },
+  "trades": [
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Amir",
+      "price": 94.2
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Nia",
+      "price": 94.18
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Ana",
+      "price": 94.18
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Raj",
+      "price": 94.18
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Zoe",
+      "price": 94.18
+    }
+  ],
+  "seller_messages": {
+    "Seller Ana": "Wishing everyone resilience and focus as we enter the penultimate hour! Let’s keep adapting, learning, and making thoughtful choices as we approach the finish—here’s to strong decisions and steady progress for all.",
+    "Seller Zoe": "Wishing everyone a focused and strategic Hour 14! As we enter the final rounds, let’s keep learning, adapt quickly, and finish strong—here’s to resilient moves and thoughtful decisions for all.",
+    "Seller Raj": "Wishing everyone a focused and adaptable Hour 14! As we approach the final hour, let's stay sharp, keep learning, and make the most strategic decisions possible—here's to resilience and insightful choices for all.",
+    "Seller Nia": "Wishing everyone a resilient and focused Hour 14! As we enter the final stretch, let's stay adaptable, keep learning, and make strategic choices for strong results. Here's to sharp thinking and steady progress as we approach the finish.",
+    "Seller Amir": "Wishing everyone clarity and adaptability as we enter the final hour! Let's finish strong, make thoughtful decisions, and learn from this experience. Here's to a successful close for all."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 15
+````json
+{
+  "round_number": 15,
+  "seller_asks": {
+    "Seller Nia": 94.14,
+    "Seller Raj": 94.14,
+    "Seller Ana": 94.15,
+    "Seller Amir": 94.14,
+    "Seller Zoe": 94.19
+  },
+  "buyer_bids": {
+    "Buyer Lena": 94.25,
+    "Buyer Kai": 94.2,
+    "Buyer Max": 94.18,
+    "Buyer Theo": 94.35,
+    "Buyer Wei": 94.26
+  },
+  "trades": [
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Amir",
+      "price": 94.25
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Nia",
+      "price": 94.2
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Lena",
+      "seller_id": "Seller Raj",
+      "price": 94.19
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Ana",
+      "price": 94.18
+    }
+  ],
+  "seller_messages": {
+    "Seller Nia": "Congratulations to everyone on reaching the final hour! It's been a challenging and insightful journey—wishing each of you a strong finish and continued success beyond this auction. Here's to learning, adapting, and great outcomes for all!",
+    "Seller Raj": "Congratulations to everyone on a competitive and resilient session! As we wrap up this final hour, wishing you all strong finishes, continued adaptability, and valuable insights for the future. Here’s to learning, growth, and success for all.",
+    "Seller Ana": "Congratulations to everyone for reaching the final hour! No matter the outcome, it’s been a privilege competing and learning alongside such dedicated sellers. Wishing everyone a strong finish and continued success beyond this session!",
+    "Seller Amir": "Congratulations to all on a fiercely competitive market and a thoughtful final hour! It’s been a privilege to learn and adapt alongside such a sharp group. Wishing everyone continued growth and success beyond this market—here’s to strong finishes and new opportunities ahead!",
+    "Seller Zoe": "Congratulations to everyone for reaching the final hour! Wishing you all a focused and successful close—may your decisions reflect your best learning and adaptability from this session. Here's to a strong finish and valuable insights for all."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````

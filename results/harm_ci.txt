@@ -1,0 +1,4 @@
+ref H_comp (n=20): reduction 0.52 [0.37, 0.68]
+ref H_high (n=20): reduction 0.77 [0.53, 1.12]
+C_price minus H_comp: -54.0 [-77.1, -29.7] dollars per episode
+C_price minus H_high: -18.2 [-42.0, +7.4] dollars per episode

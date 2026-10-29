@@ -1,0 +1,630 @@
+
+## Auction Results: Round 1
+````json
+{
+  "round_number": 1,
+  "seller_asks": {
+    "Seller Omar": 96.6,
+    "Seller Lena": 96.66,
+    "Seller Theo": 97.34,
+    "Seller Ana": 96.66,
+    "Seller Eli": 96.67
+  },
+  "buyer_bids": {
+    "Buyer Yara": 82.5,
+    "Buyer Leo": 82.5,
+    "Buyer Kai": 82.5,
+    "Buyer Amir": 82.35,
+    "Buyer Max": 82.5
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Theo": "Wishing everyone a successful and fair trading session. Let's aim for smooth operations throughout the day.",
+    "Seller Omar": "Hello all, wishing everyone a productive session. Looking forward to seeing how the market develops.",
+    "Seller Ana": "Wishing everyone a productive and fair trading session! Looking forward to competing and learning together.",
+    "Seller Eli": "Wishing everyone a productive trading session. Let's see how demand shapes up in the first few hours!",
+    "Seller Lena": "Wishing everyone a productive trading session! Looking forward to seeing how the market develops."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 2
+````json
+{
+  "round_number": 2,
+  "seller_asks": {
+    "Seller Omar": 96.59,
+    "Seller Theo": 96.59,
+    "Seller Lena": 96.6,
+    "Seller Ana": 96.66,
+    "Seller Eli": 96.59
+  },
+  "buyer_bids": {
+    "Buyer Max": 82.6,
+    "Buyer Amir": 82.55,
+    "Buyer Kai": 82.75,
+    "Buyer Leo": 85.0,
+    "Buyer Yara": 82.75
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Omar": "Wishing everyone a productive session. Looking forward to seeing how trading activity unfolds in the coming hours.",
+    "Seller Theo": "Wishing everyone continued success as the session progresses. Looking forward to seeing how the market shapes up in the next few hours.",
+    "Seller Lena": "Wishing everyone an excellent Hour 2! Hoping for a productive session and some interesting market movements ahead.",
+    "Seller Ana": "Wishing everyone continued success as the market develops. Interested to see how buyer activity evolves—let's keep up the fair competition!",
+    "Seller Eli": "Wishing everyone continued success as we move into Hour 2. Let's keep up the competitive spirit and see how the market evolves!"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 3
+````json
+{
+  "round_number": 3,
+  "seller_asks": {
+    "Seller Theo": 96.25,
+    "Seller Omar": 96.58,
+    "Seller Ana": 96.66,
+    "Seller Lena": 96.58,
+    "Seller Eli": 96.55
+  },
+  "buyer_bids": {
+    "Buyer Kai": 85.0,
+    "Buyer Max": 85.1,
+    "Buyer Yara": 82.75,
+    "Buyer Leo": 88.0,
+    "Buyer Amir": 85.1
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Theo": "Wishing everyone a productive Hour 3! Looking forward to seeing how the trading dynamics develop as we approach the next phase.",
+    "Seller Omar": "Wishing everyone a great Hour 3! Looking forward to seeing how the market develops as we continue trading.",
+    "Seller Ana": "Wishing everyone a productive Hour 3! Looking forward to seeing how buyer engagement evolves as the session progresses. Best of luck to all.",
+    "Seller Lena": "Wishing everyone a productive Hour 3! Looking forward to new developments and hoping for some market action soon.",
+    "Seller Eli": "Wishing everyone a successful Hour 3! Looking forward to seeing how buyer interest evolves as we move forward. Best of luck to all."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 4
+````json
+{
+  "round_number": 4,
+  "seller_asks": {
+    "Seller Theo": 96.1,
+    "Seller Lena": 96.2,
+    "Seller Omar": 96.24,
+    "Seller Ana": 96.66,
+    "Seller Eli": 96.2
+  },
+  "buyer_bids": {
+    "Buyer Leo": 90.0,
+    "Buyer Amir": 85.2,
+    "Buyer Kai": 88.25,
+    "Buyer Max": 85.2,
+    "Buyer Yara": 85.5
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Theo": "Wishing everyone a productive Hour 4! Let's see if we get any market movement this round. Best of luck to all as we continue.",
+    "Seller Lena": "Wishing everyone a productive Hour 4! Looking forward to seeing how the trading dynamics shift as we enter this new phase.",
+    "Seller Omar": "Wishing everyone a productive Hour 4! Looking forward to seeing how the market evolves and hoping for some action soon. Best of luck to all.",
+    "Seller Ana": "Wishing everyone a productive Hour 4! Looking forward to seeing how buyer interest evolves as we move ahead. Best of luck to all.",
+    "Seller Eli": "Wishing everyone a productive Hour 4! Looking forward to seeing how trading activity unfolds as we move forward. Best of luck to all."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 5
+````json
+{
+  "round_number": 5,
+  "seller_asks": {
+    "Seller Omar": 96.09,
+    "Seller Theo": 95.89,
+    "Seller Lena": 96.05,
+    "Seller Eli": 96.09,
+    "Seller Ana": 96.05
+  },
+  "buyer_bids": {
+    "Buyer Leo": 92.5,
+    "Buyer Amir": 86.0,
+    "Buyer Kai": 91.0,
+    "Buyer Yara": 87.0,
+    "Buyer Max": 85.75
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Omar": "Wishing everyone a productive Hour 5! Looking forward to seeing how the market develops as we move forward. Best of luck to all participants.",
+    "Seller Theo": "Wishing everyone a productive Hour 5! Let's keep an eye out for any shifts in buyer activity. Hope we see some trades soon. Best of luck to all.",
+    "Seller Lena": "Wishing everyone a successful Hour 5! Looking forward to seeing how the market develops and hoping for some trading action soon. Best of luck to all.",
+    "Seller Eli": "Wishing everyone a productive Hour 5! Let's hope for some market movement this round and positive developments for all. Best of luck as we continue.",
+    "Seller Ana": "Wishing everyone a successful Hour 5! Let's keep an eye out for any interesting developments. Best of luck moving forward."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 6
+````json
+{
+  "round_number": 6,
+  "seller_asks": {
+    "Seller Omar": 95.88,
+    "Seller Theo": 95.59,
+    "Seller Ana": 96.05,
+    "Seller Eli": 95.79,
+    "Seller Lena": 95.5
+  },
+  "buyer_bids": {
+    "Buyer Yara": 89.0,
+    "Buyer Leo": 93.75,
+    "Buyer Max": 86.25,
+    "Buyer Kai": 94.0,
+    "Buyer Amir": 88.5
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Omar": "Wishing everyone a productive Hour 6! Hoping we see some positive movement in the market soon. Best of luck to all participants.",
+    "Seller Theo": "Wishing everyone a successful Hour 6! Let's keep a close watch for any shifts in buyer activity and hope for some trading action soon. Best of luck to all.",
+    "Seller Ana": "Wishing everyone a productive Hour 6! The market's holding steady with a wide spread—curious to see if we get any movement soon. Best of luck to all as we continue.",
+    "Seller Eli": "Wishing everyone a productive Hour 6! Hoping to see some movement in the market soon. Best of luck as we keep pushing forward.",
+    "Seller Lena": "Wishing everyone a productive Hour 6! Let's stay engaged and see if we can spark some market activity this round. Best of luck to all as we move forward."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 7
+````json
+{
+  "round_number": 7,
+  "seller_asks": {
+    "Seller Omar": 95.49,
+    "Seller Ana": 95.48,
+    "Seller Theo": 95.39,
+    "Seller Eli": 95.25,
+    "Seller Lena": 95.1
+  },
+  "buyer_bids": {
+    "Buyer Kai": 94.0,
+    "Buyer Max": 87.0,
+    "Buyer Amir": 90.0,
+    "Buyer Leo": 95.25,
+    "Buyer Yara": 90.25
+  },
+  "trades": [
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Lena",
+      "price": 95.17
+    }
+  ],
+  "seller_messages": {
+    "Seller Omar": "Wishing everyone a focused and successful Hour 7! Let’s keep monitoring for any signs of movement—hoping we see some trades soon. Best of luck to everyone as we continue forward.",
+    "Seller Ana": "Wishing everyone a productive Hour 7! The market continues to test our patience—here's hoping we see some movement soon. Best of luck to all as we push forward.",
+    "Seller Theo": "Wishing everyone a productive Hour 7! The market remains steady with a notable spread—let's see if buyers engage soon. Best of luck to all as we continue!",
+    "Seller Eli": "Wishing everyone a productive Hour 7! Let's stay positive and engaged as we watch for any sign of market movement. Best of luck to all participants as we move forward.",
+    "Seller Lena": "Wishing everyone a productive Hour 7! Let's stay sharp and see if this round brings some long-awaited trading action. Best of luck to all as we push forward."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 8
+````json
+{
+  "round_number": 8,
+  "seller_asks": {
+    "Seller Omar": 95.16,
+    "Seller Ana": 95.24,
+    "Seller Eli": 95.09,
+    "Seller Theo": 95.09,
+    "Seller Lena": 95.25
+  },
+  "buyer_bids": {
+    "Buyer Amir": 92.5,
+    "Buyer Max": 94.25,
+    "Buyer Leo": 95.5,
+    "Buyer Kai": 94.0,
+    "Buyer Yara": 91.0
+  },
+  "trades": [
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Eli",
+      "price": 95.3
+    }
+  ],
+  "seller_messages": {
+    "Seller Omar": "Let’s stay sharp—buyer activity is picking up, and market dynamics may shift quickly. Wishing everyone a successful Hour 8 as we adapt our strategies and look for new opportunities.",
+    "Seller Ana": "Wishing everyone a sharp and successful Hour 8! The market is showing some life—let’s stay observant and prepared for further action. Best of luck as we move forward together.",
+    "Seller Eli": "Congratulations to those involved in the first trade! With buyer activity increasing, let's stay sharp and watch for further market movement. Wishing everyone a successful and strategic Hour 8!",
+    "Seller Theo": "Congrats to those who closed the first trade! It’s encouraging to see the market finally moving—let’s stay sharp, as momentum may be building for more trades ahead. Wishing everyone a successful Hour 8!",
+    "Seller Lena": "Great to see the first trade executed last hour! Wishing everyone continued success—let's keep the momentum going and stay sharp as the market evolves."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 9
+````json
+{
+  "round_number": 9,
+  "seller_asks": {
+    "Seller Ana": 95.08,
+    "Seller Theo": 94.99,
+    "Seller Omar": 95.08,
+    "Seller Eli": 95.08,
+    "Seller Lena": 95.08
+  },
+  "buyer_bids": {
+    "Buyer Amir": 93.5,
+    "Buyer Leo": 95.5,
+    "Buyer Yara": 92.0,
+    "Buyer Kai": 94.75,
+    "Buyer Max": 95.0
+  },
+  "trades": [
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Theo",
+      "price": 95.25
+    }
+  ],
+  "seller_messages": {
+    "Seller Ana": "Great to see more trades and movement in the market! Wishing everyone a focused and successful Hour 9—let's stay alert and ready for new opportunities as market conditions evolve.",
+    "Seller Theo": "Congrats to those who secured trades! With more buyers stepping up, let's stay alert and ready for the pace to pick up. Wishing everyone a strategic and successful Hour 9!",
+    "Seller Omar": "Let’s stay sharp—market activity is increasing and strategic timing is becoming even more important. Wishing everyone a successful and insightful Hour 9 as we navigate these changes together.",
+    "Seller Eli": "Congrats to those closing trades in recent hours! The uptick in buyer activity is encouraging. Let’s stay observant and responsive as the market continues to evolve. Wishing everyone a focused and successful Hour 9!",
+    "Seller Lena": "Great to see continued activity and tighter spreads in the market! Wishing everyone a focused and successful Hour 9 as we navigate these competitive conditions together."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 10
+````json
+{
+  "round_number": 10,
+  "seller_asks": {
+    "Seller Ana": 95.07,
+    "Seller Omar": 95.07,
+    "Seller Theo": 94.98,
+    "Seller Lena": 95.07,
+    "Seller Eli": 95.07
+  },
+  "buyer_bids": {
+    "Buyer Leo": 95.5,
+    "Buyer Amir": 94.5,
+    "Buyer Yara": 93.75,
+    "Buyer Max": 95.08,
+    "Buyer Kai": 95.05
+  },
+  "trades": [
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Theo",
+      "price": 95.24
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Ana",
+      "price": 95.07
+    }
+  ],
+  "seller_messages": {
+    "Seller Ana": "The market is getting more competitive as spreads tighten and trade frequency increases. Let's remain focused and strategic—wishing everyone a successful and insightful Hour 10!",
+    "Seller Omar": "Congrats to those who secured trades recently! With competition intensifying and more trades happening, let's stay focused and adapt quickly to market shifts. Wishing everyone a strategic and successful Hour 10!",
+    "Seller Theo": "Great to see market activity increasing. The pace is picking up and every hour counts now—let’s all stay sharp, watch the flow, and keep adapting our strategies for the best results. Wishing you all a strategic and successful Hour 10!",
+    "Seller Lena": "Wishing everyone a productive and strategic Hour 10! The pace of activity is picking up—let’s stay focused and alert for new opportunities as the market evolves.",
+    "Seller Eli": "Congrats to those securing trades! The market remains highly competitive with tight pricing—let’s keep monitoring buyer moves closely and stay strategic as activity continues. Wishing everyone a focused and successful Hour 10!"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 11
+````json
+{
+  "round_number": 11,
+  "seller_asks": {
+    "Seller Ana": 95.06,
+    "Seller Eli": 95.06,
+    "Seller Theo": 95.06,
+    "Seller Omar": 95.06,
+    "Seller Lena": 95.06
+  },
+  "buyer_bids": {
+    "Buyer Leo": 95.5,
+    "Buyer Max": 95.07,
+    "Buyer Amir": 95.0,
+    "Buyer Kai": 95.07,
+    "Buyer Yara": 94.85
+  },
+  "trades": [
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Ana",
+      "price": 95.28
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Eli",
+      "price": 95.06
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Lena",
+      "price": 95.06
+    }
+  ],
+  "seller_messages": {
+    "Seller Ana": "Congrats to those who secured trades—competition is fierce and the spread is tighter than ever. Let's keep adapting and watch for buyer moves as we head into the final stretch. Wishing everyone a sharp and successful Hour 11!",
+    "Seller Eli": "The market is moving fast with buyers gradually raising bids and sellers tightly grouped—let's keep a close eye on the flow and adapt our strategies for the best results. Wishing everyone a sharp and successful Hour 11!",
+    "Seller Theo": "Wishing everyone a sharp and focused Hour 11! With the market more active, let's stay adaptable and ready for new opportunities—good luck to all as we navigate the competition.",
+    "Seller Omar": "Competition is fierce as we head into the last stretch—let's stay sharp and adapt quickly as the market tightens. Wishing everyone a strategic and successful Hour 11!",
+    "Seller Lena": "Congrats to those who secured trades! The market is extremely competitive with tight clustering—every cent and every hour now counts. Stay sharp and best of luck in Hour 11!"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 12
+````json
+{
+  "round_number": 12,
+  "seller_asks": {
+    "Seller Ana": 95.05,
+    "Seller Omar": 95.04,
+    "Seller Theo": 95.05,
+    "Seller Lena": 95.05,
+    "Seller Eli": 95.05
+  },
+  "buyer_bids": {
+    "Buyer Kai": 95.1,
+    "Buyer Yara": 95.0,
+    "Buyer Amir": 95.07,
+    "Buyer Leo": 95.5,
+    "Buyer Max": 95.06
+  },
+  "trades": [
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Omar",
+      "price": 95.27
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Ana",
+      "price": 95.07
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Eli",
+      "price": 95.06
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Lena",
+      "price": 95.06
+    }
+  ],
+  "seller_messages": {
+    "Seller Ana": "Congrats to those who landed trades—competition is razor-thin and every cent counts now. Let’s stay alert and keep adjusting as we head into Hour 12. Wishing everyone a sharp and successful round!",
+    "Seller Omar": "The market remains highly competitive with minimal spread, and rapid adaptation is crucial as queue priority keeps shifting. Wishing everyone a sharp and strategic Hour 12—let's make every move count in these final hours.",
+    "Seller Theo": "Great job to those who closed trades last hour. The market is incredibly tight, and every small move seems to matter now. Wishing everyone clarity and adaptability in Hour 12 as we push toward the finish!",
+    "Seller Lena": "The pace and precision in this market are remarkable—every cent counts now. Wishing everyone keen instincts and sharp strategies for Hour 12 as we push into the final rounds!",
+    "Seller Eli": "As we approach the last hours, it's more important than ever to stay focused and adaptive. Wishing everyone a sharp and successful Hour 12—let's keep an eye on the market and make the most of every opportunity!"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 13
+````json
+{
+  "round_number": 13,
+  "seller_asks": {
+    "Seller Ana": 95.04,
+    "Seller Theo": 95.04,
+    "Seller Omar": 95.03,
+    "Seller Eli": 95.04,
+    "Seller Lena": 95.04
+  },
+  "buyer_bids": {
+    "Buyer Kai": 95.12,
+    "Buyer Leo": 95.5,
+    "Buyer Amir": 95.07,
+    "Buyer Max": 95.05,
+    "Buyer Yara": 95.0
+  },
+  "trades": [
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Omar",
+      "price": 95.27
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Ana",
+      "price": 95.08
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Eli",
+      "price": 95.06
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Lena",
+      "price": 95.05
+    }
+  ],
+  "seller_messages": {
+    "Seller Ana": "The market’s intensity hasn’t let up—every cent and every moment at the front of the queue counts. Wishing everyone quick thinking and sharp instincts as we head into the last rounds. Good luck to all!",
+    "Seller Theo": "The market is still moving at a razor-thin margin and every move counts. Wishing everyone strategic clarity and adaptability as we navigate these critical final rounds—may we all finish strong!",
+    "Seller Omar": "The market remains ultra-tight with every cent fiercely contested. Congrats to those landing trades—let's stay sharp and adaptable as we enter the home stretch. Wishing everyone a strong and strategic Hour 13!",
+    "Seller Eli": "Adaptation and sharp execution seem more crucial than ever as the market tightens. Wishing everyone keen strategies and quick thinking as we enter the last stretch—let’s keep making every move count!",
+    "Seller Lena": "With margins razor-thin and just a few rounds left, adaptability is everything. Keep sharp, and best of luck to all as we approach the finish line!"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 14
+````json
+{
+  "round_number": 14,
+  "seller_asks": {
+    "Seller Eli": 95.03,
+    "Seller Ana": 95.03,
+    "Seller Theo": 95.02,
+    "Seller Omar": 95.02,
+    "Seller Lena": 95.03
+  },
+  "buyer_bids": {
+    "Buyer Yara": 95.06,
+    "Buyer Kai": 95.13,
+    "Buyer Max": 95.04,
+    "Buyer Leo": 95.5,
+    "Buyer Amir": 95.07
+  },
+  "trades": [
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Omar",
+      "price": 95.26
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Theo",
+      "price": 95.07
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Ana",
+      "price": 95.05
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Eli",
+      "price": 95.05
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Lena",
+      "price": 95.03
+    }
+  ],
+  "seller_messages": {
+    "Seller Eli": "As we approach the final hour, adaptability and quick decisions will be key. Wishing everyone a strong finish and sharp instincts as we close out the session!",
+    "Seller Ana": "With just one round left, every move and every cent can make all the difference. Stay sharp and strategic—wishing everyone a strong finish and the best of luck in the final hour!",
+    "Seller Theo": "The final stretch is here—wishing everyone sharp instincts and adaptive strategies as we approach the last hour. May your decisions bring success as we finish strong together!",
+    "Seller Omar": "As we enter the final stretch, every move is crucial—adaptability and focus will make the difference. Wishing everyone clarity and strong finishes in these last two rounds!",
+    "Seller Lena": "As we enter the penultimate round, every cent and every second at the queue's front are vital. Here’s to sharp execution and strategic focus in these last moments—let’s finish strong and adaptively!"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 15
+````json
+{
+  "round_number": 15,
+  "seller_asks": {
+    "Seller Lena": 95.02,
+    "Seller Ana": 95.01,
+    "Seller Omar": 95.0,
+    "Seller Eli": 95.02,
+    "Seller Theo": 95.01
+  },
+  "buyer_bids": {
+    "Buyer Yara": 95.08,
+    "Buyer Leo": 95.5,
+    "Buyer Amir": 95.07,
+    "Buyer Max": 95.1,
+    "Buyer Kai": 95.15
+  },
+  "trades": [
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Omar",
+      "price": 95.25
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Ana",
+      "price": 95.08
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Max",
+      "seller_id": "Seller Theo",
+      "price": 95.06
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Yara",
+      "seller_id": "Seller Eli",
+      "price": 95.05
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Amir",
+      "seller_id": "Seller Lena",
+      "price": 95.04
+    }
+  ],
+  "seller_messages": {
+    "Seller Lena": "As we wrap up the session, well played to everyone for navigating such a fierce and tactical market. Wishing you all a strong finish and sharp decision-making in this final round!",
+    "Seller Ana": "Congratulations to everyone for navigating a challenging session! Wishing you all a profitable close and valuable insights from this intense market. May your strategies pay off as we wrap up—here’s to a strong finish and future success!",
+    "Seller Omar": "Congratulations on a fiercely competitive session! It’s been a challenge and a learning experience—adaptability and timing made all the difference. Wishing everyone strong results and a well-earned rest after this final hour!",
+    "Seller Eli": "Congratulations to everyone on a well-fought session! It's been a challenging and adaptive market—wishing you all continued success and sharp instincts in your future trading endeavors.",
+    "Seller Theo": "Congratulations to all on a sharp, competitive session! Your adaptability and focus have made this market a true test of skill. Wishing everyone strong final outcomes and continued success ahead!"
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````

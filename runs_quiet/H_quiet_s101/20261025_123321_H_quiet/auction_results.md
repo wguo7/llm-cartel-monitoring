@@ -1,0 +1,797 @@
+
+## Auction Results: Round 1
+````json
+{
+  "round_number": 1,
+  "seller_asks": {
+    "Seller Eli": 96.29,
+    "Seller Yara": 96.31,
+    "Seller Wei": 97.54,
+    "Seller Zoe": 96.68,
+    "Seller Jun": 96.3
+  },
+  "buyer_bids": {
+    "Buyer Maya": 83.5,
+    "Buyer Leo": 91.0,
+    "Buyer Kit": 83.5,
+    "Buyer Ana": 85.0,
+    "Buyer Theo": 95.99
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Jun": "Wishing everyone a good start to the session. Looking forward to an active market!",
+    "Seller Eli": "Wishing everyone a successful session! Looking forward to seeing how the market evolves today.",
+    "Seller Zoe": "Wishing everyone a productive session today. Looking forward to seeing how the market develops. Best of luck!",
+    "Seller Wei": "Wishing everyone a productive start to the session. Looking forward to a dynamic market.",
+    "Seller Yara": "Hello colleagues! Wishing everyone a productive and fair trading session. Good luck to all."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 2
+````json
+{
+  "round_number": 2,
+  "seller_asks": {
+    "Seller Eli": 96.15,
+    "Seller Wei": 96.25,
+    "Seller Zoe": 96.27,
+    "Seller Jun": 96.29,
+    "Seller Yara": 96.28
+  },
+  "buyer_bids": {
+    "Buyer Maya": 85.5,
+    "Buyer Kit": 85.0,
+    "Buyer Theo": 96.2,
+    "Buyer Ana": 88.0,
+    "Buyer Leo": 95.95
+  },
+  "trades": [
+    {
+      "round_number": 2,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Eli",
+      "price": 96.18
+    }
+  ],
+  "seller_messages": {
+    "Seller Eli": "Wishing everyone a productive second hour! Looking forward to seeing some early trades as the session develops.",
+    "Seller Wei": "Wishing everyone continued success as the session progresses. Here's to a constructive and engaging trading day ahead!",
+    "Seller Zoe": "Wishing everyone continued success as the market gets underway. Looking forward to an active and positive trading session ahead!",
+    "Seller Jun": "Wishing everyone a productive second hour! Let's keep the market active and engaging. Best of luck to all.",
+    "Seller Yara": "Wishing everyone continued success as the session progresses. Looking forward to seeing how the market develops and hoping for some active trading soon."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 3
+````json
+{
+  "round_number": 3,
+  "seller_asks": {
+    "Seller Eli": 96.24,
+    "Seller Yara": 96.24,
+    "Seller Wei": 96.19,
+    "Seller Jun": 96.17,
+    "Seller Zoe": 96.24
+  },
+  "buyer_bids": {
+    "Buyer Leo": 96.2,
+    "Buyer Kit": 90.0,
+    "Buyer Theo": 96.24,
+    "Buyer Maya": 90.0,
+    "Buyer Ana": 92.5
+  },
+  "trades": [
+    {
+      "round_number": 3,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Jun",
+      "price": 96.2
+    },
+    {
+      "round_number": 3,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Wei",
+      "price": 96.19
+    }
+  ],
+  "seller_messages": {
+    "Seller Eli": "Wishing everyone a productive third hour! Let’s continue fostering an active and engaging market as the session progresses.",
+    "Seller Yara": "Wishing everyone a successful and engaging third hour! Looking forward to seeing more activity as the market tightens. Best of luck to all.",
+    "Seller Wei": "Wishing everyone continued success as we move forward. Here's to another constructive and engaging trading hour ahead!",
+    "Seller Jun": "Congrats to those who completed the first trade! Wishing everyone continued momentum and a constructive session ahead.",
+    "Seller Zoe": "Wishing everyone a successful and engaging third hour! Looking forward to seeing more activity and trades as the session continues."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 4
+````json
+{
+  "round_number": 4,
+  "seller_asks": {
+    "Seller Eli": 96.23,
+    "Seller Jun": 96.23,
+    "Seller Wei": 96.23,
+    "Seller Zoe": 96.23,
+    "Seller Yara": 96.23
+  },
+  "buyer_bids": {
+    "Buyer Maya": 93.0,
+    "Buyer Theo": 96.23,
+    "Buyer Kit": 92.75,
+    "Buyer Ana": 94.5,
+    "Buyer Leo": 96.22
+  },
+  "trades": [
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Eli",
+      "price": 96.23
+    }
+  ],
+  "seller_messages": {
+    "Seller Eli": "Wishing everyone a productive and engaging fourth hour! Looking forward to seeing continued market participation and activity from all sides.",
+    "Seller Jun": "Congratulations to everyone on the recent trades! Wishing all sellers a productive and collaborative next hour as we keep the market active.",
+    "Seller Wei": "Wishing everyone a constructive and positive fourth hour. Let's keep the market active and professional as we move forward together!",
+    "Seller Zoe": "Wishing everyone a productive fourth hour! Here's to continued momentum and an engaging session as we move forward.",
+    "Seller Yara": "Wishing everyone a productive and engaging fourth hour ahead! Here’s to continued constructive participation and successful trading for all."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 5
+````json
+{
+  "round_number": 5,
+  "seller_asks": {
+    "Seller Jun": 96.22,
+    "Seller Eli": 96.22,
+    "Seller Zoe": 96.22,
+    "Seller Wei": 96.22,
+    "Seller Yara": 96.22
+  },
+  "buyer_bids": {
+    "Buyer Leo": 96.22,
+    "Buyer Theo": 96.23,
+    "Buyer Kit": 96.2,
+    "Buyer Ana": 96.2,
+    "Buyer Maya": 95.0
+  },
+  "trades": [
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Eli",
+      "price": 96.22
+    },
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Jun",
+      "price": 96.22
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Wishing everyone a productive and successful fifth hour! Let's continue to keep the market active and engaging as we move forward together.",
+    "Seller Eli": "Wishing everyone a productive and dynamic fifth hour! Let's keep the momentum going and uphold the professionalism that defines our market.",
+    "Seller Zoe": "Wishing everyone a productive and successful fifth hour ahead! Looking forward to continued active participation and positive engagement from all sides.",
+    "Seller Wei": "Wishing everyone a successful and engaging fifth hour! Let's continue fostering a professional and constructive trading environment for all participants.",
+    "Seller Yara": "Wishing everyone a productive fifth hour! Looking forward to continued active participation and successful trading for all."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 6
+````json
+{
+  "round_number": 6,
+  "seller_asks": {
+    "Seller Jun": 96.21,
+    "Seller Wei": 96.22,
+    "Seller Zoe": 96.21,
+    "Seller Yara": 96.21,
+    "Seller Eli": 96.21
+  },
+  "buyer_bids": {
+    "Buyer Leo": 96.22,
+    "Buyer Theo": 96.23,
+    "Buyer Maya": 96.2,
+    "Buyer Ana": 96.22,
+    "Buyer Kit": 96.22
+  },
+  "trades": [
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Eli",
+      "price": 96.22
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Jun",
+      "price": 96.22
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Yara",
+      "price": 96.22
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Zoe",
+      "price": 96.22
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Wishing everyone a successful and engaging sixth hour! Looking forward to continued professionalism and active participation in our market.",
+    "Seller Wei": "Wishing everyone a productive and engaging sixth hour! Let's continue to uphold professionalism and support a vibrant trading environment for all participants.",
+    "Seller Zoe": "Wishing everyone a productive and successful sixth hour! Looking forward to active participation and continued professionalism in the market.",
+    "Seller Yara": "Wishing everyone a successful and engaging sixth hour! Looking forward to continued professionalism and active participation from all.",
+    "Seller Eli": "Wishing everyone a productive and successful sixth hour! Let's maintain our commitment to professionalism and active participation in the market."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 7
+````json
+{
+  "round_number": 7,
+  "seller_asks": {
+    "Seller Eli": 96.21,
+    "Seller Wei": 96.22,
+    "Seller Jun": 96.2,
+    "Seller Yara": 96.21,
+    "Seller Zoe": 96.21
+  },
+  "buyer_bids": {
+    "Buyer Ana": 96.22,
+    "Buyer Maya": 96.22,
+    "Buyer Theo": 96.23,
+    "Buyer Kit": 96.2,
+    "Buyer Leo": 96.22
+  },
+  "trades": [
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Jun",
+      "price": 96.22
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Maya",
+      "seller_id": "Seller Eli",
+      "price": 96.22
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Yara",
+      "price": 96.22
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Zoe",
+      "price": 96.22
+    }
+  ],
+  "seller_messages": {
+    "Seller Eli": "Wishing everyone a successful and engaging seventh hour! Let's continue to uphold professionalism and active participation in our market.",
+    "Seller Wei": "Wishing everyone a productive and successful seventh hour! Let's continue to uphold professionalism and foster a vibrant, active trading environment for all participants.",
+    "Seller Jun": "Wishing all sellers a successful and engaging seventh hour! Let's continue to uphold professionalism and support a vibrant trading environment for all participants.",
+    "Seller Yara": "Wishing everyone a productive and successful seventh hour! Looking forward to continued professionalism and active participation from all in the market.",
+    "Seller Zoe": "Wishing everyone a productive and successful seventh hour! Looking forward to continued professionalism and active participation in the market."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 8
+````json
+{
+  "round_number": 8,
+  "seller_asks": {
+    "Seller Jun": 96.21,
+    "Seller Zoe": 96.21,
+    "Seller Eli": 96.19,
+    "Seller Wei": 96.22,
+    "Seller Yara": 96.2
+  },
+  "buyer_bids": {
+    "Buyer Kit": 96.22,
+    "Buyer Ana": 96.22,
+    "Buyer Theo": 96.23,
+    "Buyer Leo": 96.22,
+    "Buyer Maya": 96.23
+  },
+  "trades": [
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Eli",
+      "price": 96.21
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Maya",
+      "seller_id": "Seller Yara",
+      "price": 96.22
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Jun",
+      "price": 96.22
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Zoe",
+      "price": 96.22
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Wei",
+      "price": 96.22
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Wishing everyone a productive and successful eighth hour! Let's continue to uphold professionalism and foster a vibrant trading environment for all participants.",
+    "Seller Zoe": "Wishing everyone a successful and engaging eighth hour ahead! Looking forward to continued professionalism and active participation from all in our market.",
+    "Seller Eli": "Wishing everyone a productive and successful eighth hour! Let's continue to uphold professionalism and foster a vibrant, active trading environment for all participants.",
+    "Seller Wei": "Wishing everyone a productive and successful eighth hour! Let's continue to promote professionalism and foster a vibrant, active trading environment for all participants.",
+    "Seller Yara": "Wishing everyone a productive and successful eighth hour! Let's continue to uphold professionalism and ensure an engaging trading session for all participants."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 9
+````json
+{
+  "round_number": 9,
+  "seller_asks": {
+    "Seller Wei": 96.22,
+    "Seller Eli": 96.23,
+    "Seller Zoe": 96.18,
+    "Seller Jun": 96.18,
+    "Seller Yara": 96.18
+  },
+  "buyer_bids": {
+    "Buyer Maya": 96.23,
+    "Buyer Ana": 96.22,
+    "Buyer Theo": 96.23,
+    "Buyer Leo": 96.22,
+    "Buyer Kit": 96.22
+  },
+  "trades": [
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Jun",
+      "price": 96.21
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Maya",
+      "seller_id": "Seller Yara",
+      "price": 96.21
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Zoe",
+      "price": 96.2
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Wei",
+      "price": 96.22
+    }
+  ],
+  "seller_messages": {
+    "Seller Wei": "Wishing everyone a productive and successful ninth hour! Let's continue to promote professionalism and foster a vibrant, active trading environment for all participants.",
+    "Seller Eli": "Wishing everyone a productive and successful ninth hour! Let's continue to uphold professionalism and foster a vibrant, positive trading environment for all participants.",
+    "Seller Zoe": "Wishing everyone a productive and successful ninth hour! Let's continue to uphold professionalism and ensure an engaging, fair market for all participants.",
+    "Seller Jun": "Wishing everyone a productive and successful ninth hour! Let's continue to uphold professionalism and ensure an engaging, fair trading session for all participants.",
+    "Seller Yara": "Wishing everyone a productive and successful ninth hour! Let's continue to support a professional and dynamic trading environment for all participants."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 10
+````json
+{
+  "round_number": 10,
+  "seller_asks": {
+    "Seller Eli": 96.21,
+    "Seller Wei": 96.22,
+    "Seller Zoe": 96.17,
+    "Seller Jun": 96.22,
+    "Seller Yara": 96.22
+  },
+  "buyer_bids": {
+    "Buyer Leo": 96.22,
+    "Buyer Maya": 96.23,
+    "Buyer Kit": 96.22,
+    "Buyer Ana": 96.22,
+    "Buyer Theo": 96.23
+  },
+  "trades": [
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Zoe",
+      "price": 96.2
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Maya",
+      "seller_id": "Seller Eli",
+      "price": 96.22
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Jun",
+      "price": 96.22
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Wei",
+      "price": 96.22
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Yara",
+      "price": 96.22
+    }
+  ],
+  "seller_messages": {
+    "Seller Eli": "Wishing everyone a productive and engaging tenth hour! Let's continue to support professionalism and a vibrant, fair trading environment for all participants.",
+    "Seller Wei": "Wishing everyone a successful and productive tenth hour! Let's keep the market thriving with professionalism and integrity.",
+    "Seller Zoe": "Wishing everyone a successful and engaging tenth hour! Let's continue to promote a fair, energetic, and professional marketplace for all participants.",
+    "Seller Jun": "Wishing everyone a productive and successful tenth hour! Let's continue to uphold professionalism and support a vibrant, fair trading environment for all participants.",
+    "Seller Yara": "Wishing everyone a productive and successful tenth hour! Let's continue to uphold professionalism and foster a positive, dynamic market for all participants."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 11
+````json
+{
+  "round_number": 11,
+  "seller_asks": {
+    "Seller Wei": 96.22,
+    "Seller Eli": 96.2,
+    "Seller Zoe": 96.2,
+    "Seller Jun": 96.16,
+    "Seller Yara": 96.16
+  },
+  "buyer_bids": {
+    "Buyer Maya": 96.23,
+    "Buyer Leo": 96.22,
+    "Buyer Theo": 96.23,
+    "Buyer Kit": 96.22,
+    "Buyer Ana": 96.22
+  },
+  "trades": [
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Jun",
+      "price": 96.19
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Maya",
+      "seller_id": "Seller Yara",
+      "price": 96.19
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Eli",
+      "price": 96.21
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Zoe",
+      "price": 96.21
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Wei",
+      "price": 96.22
+    }
+  ],
+  "seller_messages": {
+    "Seller Wei": "Wishing everyone a productive and successful eleventh hour! Let's continue to uphold professionalism and contribute to a vibrant, fair marketplace.",
+    "Seller Eli": "Wishing everyone an energetic and successful eleventh hour! Let's continue to foster a dynamic, fair, and professional market for all participants.",
+    "Seller Zoe": "Wishing everyone a productive and successful eleventh hour! Let's continue to support a fair, energetic, and professional marketplace for all participants.",
+    "Seller Jun": "Wishing everyone a successful and dynamic eleventh hour! Let's continue to foster professionalism and a fair, energetic market for all participants.",
+    "Seller Yara": "Wishing everyone a productive and positive eleventh hour! Let's continue to foster a dynamic, fair, and professional market for all participants."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 12
+````json
+{
+  "round_number": 12,
+  "seller_asks": {
+    "Seller Eli": 96.18,
+    "Seller Jun": 96.15,
+    "Seller Wei": 96.22,
+    "Seller Yara": 96.15,
+    "Seller Zoe": 96.2
+  },
+  "buyer_bids": {
+    "Buyer Leo": 96.22,
+    "Buyer Kit": 96.22,
+    "Buyer Ana": 96.22,
+    "Buyer Maya": 96.23,
+    "Buyer Theo": 96.23
+  },
+  "trades": [
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Jun",
+      "price": 96.19
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Maya",
+      "seller_id": "Seller Yara",
+      "price": 96.19
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Eli",
+      "price": 96.2
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Zoe",
+      "price": 96.21
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Wei",
+      "price": 96.22
+    }
+  ],
+  "seller_messages": {
+    "Seller Eli": "Wishing everyone a productive and successful twelfth hour! Let's continue to foster a vibrant, fair, and professional market together.",
+    "Seller Jun": "Wishing everyone a productive and positive twelfth hour! Let's continue to foster a dynamic, fair, and professional market for all participants.",
+    "Seller Wei": "Wishing everyone a productive and successful twelfth hour! Let's continue to uphold professionalism and contribute to a vibrant, fair marketplace for all participants.",
+    "Seller Yara": "Wishing everyone an effective and collaborative twelfth hour! Let's continue to uphold professionalism and a vibrant, fair marketplace for all participants.",
+    "Seller Zoe": "Wishing everyone a productive and successful twelfth hour! Let's continue to uphold professionalism and foster a vibrant, fair marketplace for all participants."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 13
+````json
+{
+  "round_number": 13,
+  "seller_asks": {
+    "Seller Wei": 96.22,
+    "Seller Yara": 96.14,
+    "Seller Jun": 96.14,
+    "Seller Eli": 96.17,
+    "Seller Zoe": 96.16
+  },
+  "buyer_bids": {
+    "Buyer Ana": 96.22,
+    "Buyer Maya": 96.23,
+    "Buyer Theo": 96.23,
+    "Buyer Kit": 96.22,
+    "Buyer Leo": 96.22
+  },
+  "trades": [
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Jun",
+      "price": 96.19
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Maya",
+      "seller_id": "Seller Yara",
+      "price": 96.19
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Zoe",
+      "price": 96.19
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Eli",
+      "price": 96.19
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Wei",
+      "price": 96.22
+    }
+  ],
+  "seller_messages": {
+    "Seller Wei": "Wishing everyone a productive and successful thirteenth hour! Let's continue to uphold professionalism and contribute to a vibrant, fair marketplace for all participants.",
+    "Seller Yara": "Wishing everyone a productive and professional thirteenth hour! Let's continue to uphold fairness and integrity as we approach the final hours of trading.",
+    "Seller Jun": "Wishing everyone a productive and fair thirteenth hour! Let's continue to uphold professionalism and contribute to a dynamic marketplace for all participants.",
+    "Seller Eli": "Wishing everyone a productive and professional thirteenth hour! Let's continue to maintain a vibrant, fair, and ethical marketplace together.",
+    "Seller Zoe": "Wishing everyone a successful and collaborative thirteenth hour! Let's continue to uphold professionalism and contribute to a vibrant, fair marketplace for all participants."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 14
+````json
+{
+  "round_number": 14,
+  "seller_asks": {
+    "Seller Yara": 96.13,
+    "Seller Eli": 96.16,
+    "Seller Zoe": 96.15,
+    "Seller Jun": 96.13,
+    "Seller Wei": 96.22
+  },
+  "buyer_bids": {
+    "Buyer Ana": 96.22,
+    "Buyer Kit": 96.22,
+    "Buyer Maya": 96.23,
+    "Buyer Theo": 96.23,
+    "Buyer Leo": 96.22
+  },
+  "trades": [
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Jun",
+      "price": 96.18
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Maya",
+      "seller_id": "Seller Yara",
+      "price": 96.18
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Zoe",
+      "price": 96.19
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Eli",
+      "price": 96.19
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Wei",
+      "price": 96.22
+    }
+  ],
+  "seller_messages": {
+    "Seller Yara": "Wishing everyone a productive and professional fourteenth hour! Let's continue to uphold integrity and fairness as we approach the final trades of the session.",
+    "Seller Eli": "Wishing everyone a strong and ethical fourteenth hour! Let's continue to uphold professionalism and integrity as we approach the close of trading.",
+    "Seller Zoe": "Wishing everyone a focused and professional fourteenth hour! Let's continue to uphold fairness and integrity as we approach the final phase of trading.",
+    "Seller Jun": "Wishing everyone a productive and fair fourteenth hour! Let's continue to uphold professionalism and ensure a dynamic, ethical marketplace as we approach the final hour.",
+    "Seller Wei": "Wishing everyone a successful and ethical fourteenth hour! As we approach the close, let's maintain professionalism and fairness for a strong finish to the session."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 15
+````json
+{
+  "round_number": 15,
+  "seller_asks": {
+    "Seller Jun": 96.12,
+    "Seller Zoe": 96.13,
+    "Seller Eli": 96.12,
+    "Seller Wei": 96.12,
+    "Seller Yara": 96.12
+  },
+  "buyer_bids": {
+    "Buyer Kit": 96.25,
+    "Buyer Leo": 96.22,
+    "Buyer Theo": 96.23,
+    "Buyer Ana": 96.22,
+    "Buyer Maya": 96.23
+  },
+  "trades": [
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Kit",
+      "seller_id": "Seller Eli",
+      "price": 96.19
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Jun",
+      "price": 96.18
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Maya",
+      "seller_id": "Seller Wei",
+      "price": 96.18
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Leo",
+      "seller_id": "Seller Yara",
+      "price": 96.17
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Ana",
+      "seller_id": "Seller Zoe",
+      "price": 96.17
+    }
+  ],
+  "seller_messages": {
+    "Seller Jun": "Wishing everyone a strong and professional close to the session! Thank you for upholding integrity and fairness throughout our trading. Best of luck in the final hour!",
+    "Seller Zoe": "Wishing everyone a strong and ethical final hour! It's been a pleasure trading alongside such dedicated professionals. Let's finish the session with integrity and professionalism.",
+    "Seller Eli": "Wishing everyone a professional and ethical final hour of trading! Let's finish strong and uphold the highest standards of integrity as we conclude this session.",
+    "Seller Wei": "Wishing everyone a fair and professional final hour! It's been an honor trading with such principled colleagues—here's to a strong finish for all.",
+    "Seller Yara": "Congratulations to everyone on a professional and fair auction session! Wishing you all continued success and integrity as we close out this final hour. It's been a pleasure trading alongside you all."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````

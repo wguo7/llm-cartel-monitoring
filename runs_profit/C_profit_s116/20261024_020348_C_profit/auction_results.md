@@ -1,0 +1,707 @@
+
+## Auction Results: Round 1
+````json
+{
+  "round_number": 1,
+  "seller_asks": {
+    "Seller Tara": 98.25,
+    "Seller Kit": 97.19,
+    "Seller Omar": 97.12,
+    "Seller Amir": 96.32,
+    "Seller Max": 96.26
+  },
+  "buyer_bids": {
+    "Buyer Theo": 95.9,
+    "Buyer Wei": 83.8,
+    "Buyer Eli": 84.0,
+    "Buyer Kai": 96.2,
+    "Buyer Zoe": 85.5
+  },
+  "trades": [],
+  "seller_messages": {
+    "Seller Omar": "Not much movement so far—looks like buyers are starting cautiously. Let's see how the first few hours unfold.",
+    "Seller Amir": "Quiet start—no trades yet. Noticing a wide spread between bids and asks. Curious to see if buyers move up or if sellers adjust next hour.",
+    "Seller Tara": "Looks like a cautious start with buyers bidding well below ask levels. Let's see if there's movement from their side before considering any major changes.",
+    "Seller Kit": "Interesting spread so far—looks like buyers are holding back. Curious to see if anyone gets a nibble this round.",
+    "Seller Max": "Looks like a wide spread so far and no trades yet. Will be interesting to see how buyers respond as the session progresses."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 2
+````json
+{
+  "round_number": 2,
+  "seller_asks": {
+    "Seller Tara": 98.25,
+    "Seller Omar": 97.12,
+    "Seller Max": 96.26,
+    "Seller Kit": 96.99,
+    "Seller Amir": 96.21
+  },
+  "buyer_bids": {
+    "Buyer Wei": 85.6,
+    "Buyer Zoe": 90.0,
+    "Buyer Theo": 96.2,
+    "Buyer Kai": 96.25,
+    "Buyer Eli": 86.0
+  },
+  "trades": [
+    {
+      "round_number": 2,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Amir",
+      "price": 96.23
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Still no trades—spread remains wide. Interested to see if buyers adjust their bids or if things stay quiet another round.",
+    "Seller Omar": "Still seeing a standstill—buyers and sellers both holding their ground. Will be interesting to see who blinks first or if buyers start bridging the gap soon.",
+    "Seller Max": "Still seeing a cautious market with no trades yet. No real movement from either side so far. Let's see how things play out—watching for any signs of buyers adjusting soon.",
+    "Seller Kit": "Still no trades—market seems firm on both sides. Interested to see if buyers step up or if we’ll need to adjust further. Patience might pay off if demand builds.",
+    "Seller Amir": "Still seeing a pretty wide spread and no trades yet. Looks like sellers are holding steady. Curious to see if buyers start bridging the gap or if things stay quiet a bit longer."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 3
+````json
+{
+  "round_number": 3,
+  "seller_asks": {
+    "Seller Max": 96.26,
+    "Seller Amir": 96.24,
+    "Seller Omar": 97.12,
+    "Seller Tara": 96.89,
+    "Seller Kit": 96.24
+  },
+  "buyer_bids": {
+    "Buyer Wei": 90.01,
+    "Buyer Eli": 91.5,
+    "Buyer Theo": 96.25,
+    "Buyer Kai": 96.26,
+    "Buyer Zoe": 93.5
+  },
+  "trades": [
+    {
+      "round_number": 3,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Amir",
+      "price": 96.25
+    },
+    {
+      "round_number": 3,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Kit",
+      "price": 96.25
+    }
+  ],
+  "seller_messages": {
+    "Seller Max": "Spread still holding steady this round—looks like buyers are sticking to their positions. Curious if we'll see any movement next hour or if things stay locked in for a bit longer.",
+    "Seller Amir": "Still seeing asks tightly grouped and buyers slowly edging up. Curious to see if we see more movement from buyers this round or if everyone stays steady another hour.",
+    "Seller Omar": "Market remains steady—no new trades and both sides holding positions. Watching closely for any signs of buyers moving up or shifts in the pace. Let’s see if patience pays off or if buyers try to close the gap soon.",
+    "Seller Tara": "Looks like Amir landed a trade last round—congrats! Max is right at the top bid now, so there may be some action brewing. Curious to see if more buyers step up or if staying patient stays the best move.",
+    "Seller Kit": "Saw Amir secure a trade last round—looks like buyers are starting to move up a bit. Spread is narrowing, so it’ll be interesting to see if more activity follows. Keeping an eye on how aggressive buyers get from here."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 4
+````json
+{
+  "round_number": 4,
+  "seller_asks": {
+    "Seller Tara": 96.26,
+    "Seller Omar": 97.12,
+    "Seller Kit": 96.24,
+    "Seller Max": 96.26,
+    "Seller Amir": 96.27
+  },
+  "buyer_bids": {
+    "Buyer Theo": 96.24,
+    "Buyer Wei": 93.51,
+    "Buyer Kai": 96.26,
+    "Buyer Eli": 94.0,
+    "Buyer Zoe": 95.0
+  },
+  "trades": [
+    {
+      "round_number": 4,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Kit",
+      "price": 96.25
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Market still steady with asks holding in the mid-$96s and buyers sticking to their positions. Interested to see if patience pays off or if we see a move from buyers soon.",
+    "Seller Omar": "Market is still holding tight on both sides—buyers nudging bids higher but not closing the gap yet. Watching for any shifts or increased urgency from the buy side as spreads persist.",
+    "Seller Kit": "Market seems steady with sellers holding positions near the last few trade prices. Watching to see if any buyers step up or if we remain in this range for another round.",
+    "Seller Max": "Market’s still holding steady—no new trades again and both sides seem patient. Looks like everyone’s monitoring for any change in buyer activity. Let’s see if anything shifts next round.",
+    "Seller Amir": "Market's still holding steady with tightly grouped asks—interesting to see if buyers push higher or keep waiting. Watching for any signs of movement, but for now patience seems to be working for sellers."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 5
+````json
+{
+  "round_number": 5,
+  "seller_asks": {
+    "Seller Omar": 96.26,
+    "Seller Tara": 96.26,
+    "Seller Max": 96.25,
+    "Seller Kit": 96.24,
+    "Seller Amir": 96.26
+  },
+  "buyer_bids": {
+    "Buyer Theo": 96.26,
+    "Buyer Wei": 95.01,
+    "Buyer Eli": 95.75,
+    "Buyer Kai": 96.26,
+    "Buyer Zoe": 96.0
+  },
+  "trades": [
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Kit",
+      "price": 96.25
+    },
+    {
+      "round_number": 5,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Max",
+      "price": 96.25
+    }
+  ],
+  "seller_messages": {
+    "Seller Omar": "Market remains steady with tightly grouped asks and buyers slowly moving up. Holding my position near recent trade levels—curious if buyers will make a move or keep waiting.",
+    "Seller Tara": "Market remains steady with sellers holding firm in the mid-$96s and buyers maintaining their positions. Still waiting to see if buyers make a move or if things stay in this range another round.",
+    "Seller Max": "Market's still steady—seeing trades consistently clear at $96.25, so I'm holding at that level to see if it leads to results. Will keep monitoring for any shifts from buyers or sellers.",
+    "Seller Kit": "Market remains steady with asks clustered around the last trade price and buyers still holding just below. No big shifts yet—watching closely to see if buyers move up or if sellers adjust positions next round.",
+    "Seller Amir": "Market remains steady with asks holding firm and buyers keeping bids below the ask cluster. Curious to see if buyers will push higher or continue waiting. Watching closely for any signs of a shift in buyer urgency."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 6
+````json
+{
+  "round_number": 6,
+  "seller_asks": {
+    "Seller Amir": 96.26,
+    "Seller Max": 96.25,
+    "Seller Kit": 96.24,
+    "Seller Omar": 96.25,
+    "Seller Tara": 96.26
+  },
+  "buyer_bids": {
+    "Buyer Wei": 96.27,
+    "Buyer Theo": 96.26,
+    "Buyer Zoe": 96.0,
+    "Buyer Kai": 96.26,
+    "Buyer Eli": 96.1
+  },
+  "trades": [
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Kit",
+      "price": 96.25
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Max",
+      "price": 96.25
+    },
+    {
+      "round_number": 6,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Omar",
+      "price": 96.25
+    }
+  ],
+  "seller_messages": {
+    "Seller Amir": "Market remains tightly balanced with sellers holding firm and buyers still just below the ask level. Watching to see if buyers push up or if things remain steady another round.",
+    "Seller Max": "Market continues to show steady trades around $96.25 with sellers holding firm just above buyer bids. I'm planning to hold at this level to see if the pattern continues. Interested to see whether buyers will move up or if sellers need to adjust in coming rounds.",
+    "Seller Kit": "Market continues to show stability with sellers holding near recent trade levels. Buyers are edging bids upward, but haven't crossed the spread yet. I'm holding steady and watching for signs of increased buyer activity.",
+    "Seller Omar": "Market continues to see trades consistently clear at $96.25, with sellers closely aligned at that level. Watching for any shifts in buyer activity or possible moves as we approach the midpoint of the session.",
+    "Seller Tara": "Market remains steady with sellers maintaining current ask levels and buyers showing only gradual movement. Continuing to hold at $96.26 and watching closely for any changes in buyer urgency or bid adjustments."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 7
+````json
+{
+  "round_number": 7,
+  "seller_asks": {
+    "Seller Max": 96.25,
+    "Seller Omar": 96.25,
+    "Seller Amir": 96.26,
+    "Seller Kit": 96.24,
+    "Seller Tara": 96.26
+  },
+  "buyer_bids": {
+    "Buyer Wei": 96.28,
+    "Buyer Theo": 96.27,
+    "Buyer Kai": 96.26,
+    "Buyer Eli": 96.2,
+    "Buyer Zoe": 96.0
+  },
+  "trades": [
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Kit",
+      "price": 96.26
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Max",
+      "price": 96.26
+    },
+    {
+      "round_number": 7,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Omar",
+      "price": 96.25
+    }
+  ],
+  "seller_messages": {
+    "Seller Max": "Market remains steady with sellers holding at current levels and buyers gradually increasing bids. I'm maintaining my position at $96.25 and watching for any sign of change in buying activity or seller moves.",
+    "Seller Omar": "Market remains steady with trades clearing at $96.25 and sellers closely aligned. I'm holding at this level and watching for any signals of increased buyer activity or shifts in the ask queue.",
+    "Seller Amir": "Market continues to exhibit stability with sellers holding firm and buyers slowly edging higher. Watching for any signs of increased buyer urgency or possible shifts in bid levels as we move into the next phase.",
+    "Seller Kit": "Market remains steady with sellers maintaining current ask levels and buyers yet to cross the spread. I'm holding at $96.24 and watching closely for any signs of increased buyer urgency or shifts in the queue.",
+    "Seller Tara": "Market remains steady with sellers maintaining current ask levels and buyers showing only gradual movement. Continuing to hold at $96.26 and watching closely for any changes in buyer urgency or bid adjustments."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 8
+````json
+{
+  "round_number": 8,
+  "seller_asks": {
+    "Seller Kit": 96.24,
+    "Seller Omar": 96.25,
+    "Seller Amir": 96.26,
+    "Seller Tara": 96.22,
+    "Seller Max": 96.26
+  },
+  "buyer_bids": {
+    "Buyer Wei": 96.21,
+    "Buyer Eli": 96.24,
+    "Buyer Kai": 96.28,
+    "Buyer Theo": 96.28,
+    "Buyer Zoe": 96.0
+  },
+  "trades": [
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Tara",
+      "price": 96.25
+    },
+    {
+      "round_number": 8,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Kit",
+      "price": 96.26
+    }
+  ],
+  "seller_messages": {
+    "Seller Kit": "Market remains steady with sellers holding current asks and buyers just below the spread. I'm maintaining my position at $96.24 and watching closely for any signs of increased buyer activity or shifts in the ask queue.",
+    "Seller Omar": "Market remains steady with sellers clustered tightly near the current clearing price. I'm holding at $96.25 and watching for any signs of shifting buyer urgency or changes in the ask queue.",
+    "Seller Amir": "Market continues to show stability with sellers maintaining current levels and buyers gradually increasing bids. I'm holding at $96.26 and watching for any signs of increased buyer action or shifts in the ask queue.",
+    "Seller Tara": "Market has remained steady, but I'm making a slight adjustment this hour to test for any increased buyer urgency. Will be watching closely to see if this prompts any additional activity. Interested to hear if anyone notices a change in buyer behavior.",
+    "Seller Max": "Market continues to show steady clearing at current ask levels with buyers raising their bids gradually. I'm maintaining my ask at $96.26 and watching for any shift in buying patterns or seller moves."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 9
+````json
+{
+  "round_number": 9,
+  "seller_asks": {
+    "Seller Max": 96.26,
+    "Seller Tara": 96.24,
+    "Seller Amir": 96.26,
+    "Seller Omar": 96.25,
+    "Seller Kit": 96.24
+  },
+  "buyer_bids": {
+    "Buyer Wei": 96.25,
+    "Buyer Eli": 96.25,
+    "Buyer Kai": 96.3,
+    "Buyer Theo": 96.25,
+    "Buyer Zoe": 96.24
+  },
+  "trades": [
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Kit",
+      "price": 96.27
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Tara",
+      "price": 96.25
+    },
+    {
+      "round_number": 9,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Omar",
+      "price": 96.25
+    }
+  ],
+  "seller_messages": {
+    "Seller Max": "Market remains steady with asks clustered near $96.26 and buyers continuing their gradual increases. I'm maintaining my position at $96.26 and closely watching for any signs of increased buyer urgency or changes in the ask queue.",
+    "Seller Tara": "Market continues its steady trend with buyers incrementally boosting bids and sellers remaining closely clustered. I'm making a slight adjustment to stay competitive and will be watching closely for any changes in buyer urgency or shifts among sellers.",
+    "Seller Amir": "Market remains in a holding pattern, with sellers steady and buyers not yet crossing the spread. I'm holding at $96.26 and watching for any signs of increased buyer urgency or shifts in the queue.",
+    "Seller Omar": "Market remains steady with sellers maintaining current asks and buyers clustered just below. I'm holding at $96.25 and watching for any signs of shifting buyer urgency or movement in the ask queue.",
+    "Seller Kit": "Market remains steady with sellers maintaining current asks and buyers just below the spread. I'm holding my ask at $96.24 and will be watching closely for any signs of increased buyer urgency or changes in the ask queue."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 10
+````json
+{
+  "round_number": 10,
+  "seller_asks": {
+    "Seller Tara": 96.23,
+    "Seller Amir": 96.26,
+    "Seller Omar": 96.25,
+    "Seller Max": 96.26,
+    "Seller Kit": 96.24
+  },
+  "buyer_bids": {
+    "Buyer Eli": 96.25,
+    "Buyer Wei": 96.24,
+    "Buyer Theo": 96.26,
+    "Buyer Kai": 96.32,
+    "Buyer Zoe": 96.25
+  },
+  "trades": [
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Tara",
+      "price": 96.28
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Kit",
+      "price": 96.25
+    },
+    {
+      "round_number": 10,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Omar",
+      "price": 96.25
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Market remains steady with sellers closely clustered and buyers gradually increasing bids. I've made a slight adjustment to my ask this hour to stay competitive and will be watching closely for any shifts in buyer urgency or changes among sellers.",
+    "Seller Amir": "Market conditions remain steady with sellers holding position and buyers clustered just below. I'm maintaining my ask at $96.26 and will continue to watch for any signs of movement or shifts in buyer urgency.",
+    "Seller Omar": "Market remains steady with sellers tightly clustered and buyers incrementally improving bids. I'm holding my ask at $96.25 and watching closely for any movement in buyer urgency or significant changes in the queue.",
+    "Seller Max": "Market continues its steady trend with sellers holding at $96.26 and buyers gradually raising bids. I'm maintaining my position at $96.26 and will be watching for any signs of shifting urgency or changes in the queue.",
+    "Seller Kit": "Market continues to show stability with sellers holding positions and buyers still clustered below the spread. I'm holding my ask at $96.24 and closely monitoring for any changes in buyer urgency or seller movement."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 11
+````json
+{
+  "round_number": 11,
+  "seller_asks": {
+    "Seller Omar": 96.25,
+    "Seller Tara": 96.23,
+    "Seller Amir": 96.26,
+    "Seller Max": 96.26,
+    "Seller Kit": 96.24
+  },
+  "buyer_bids": {
+    "Buyer Kai": 96.34,
+    "Buyer Eli": 96.26,
+    "Buyer Zoe": 96.25,
+    "Buyer Wei": 96.25,
+    "Buyer Theo": 96.26
+  },
+  "trades": [
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Tara",
+      "price": 96.28
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Kit",
+      "price": 96.25
+    },
+    {
+      "round_number": 11,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Omar",
+      "price": 96.25
+    }
+  ],
+  "seller_messages": {
+    "Seller Omar": "Market remains steady with sellers holding positions and buyers gradually increasing bids. I'm maintaining my ask at $96.25 and will continue monitoring for any significant shifts in buyer urgency or changes among sellers.",
+    "Seller Tara": "Market continues to show steady clustering among sellers with gradual bid increases from buyers. I'm keeping a close watch for any signs of increased buyer urgency or significant changes in the queue this hour.",
+    "Seller Amir": "Market remains steady with sellers holding position and buyers clustered just below. I'm maintaining my ask at $96.26 and will continue to watch for any signs of movement or shifts in buyer urgency.",
+    "Seller Max": "Market continues to show stability, with sellers maintaining positions and buyers slowly increasing bids. I'm holding my ask at $96.26 and will keep watching for any signs of urgency or shifts in the queue.",
+    "Seller Kit": "Market remains steady with sellers holding positions and buyers still clustered just below the spread. I'm continuing with my current ask and monitoring for any shifts in urgency or movement in the order books."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 12
+````json
+{
+  "round_number": 12,
+  "seller_asks": {
+    "Seller Omar": 96.25,
+    "Seller Amir": 96.26,
+    "Seller Tara": 96.25,
+    "Seller Kit": 96.24,
+    "Seller Max": 96.26
+  },
+  "buyer_bids": {
+    "Buyer Kai": 96.36,
+    "Buyer Theo": 96.26,
+    "Buyer Wei": 96.25,
+    "Buyer Eli": 96.27,
+    "Buyer Zoe": 96.25
+  },
+  "trades": [
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Kit",
+      "price": 96.3
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Omar",
+      "price": 96.26
+    },
+    {
+      "round_number": 12,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Tara",
+      "price": 96.25
+    }
+  ],
+  "seller_messages": {
+    "Seller Omar": "Market conditions remain steady with sellers holding positions and buyers continuing gradual bid increases. I am maintaining my ask at $96.25 and will keep monitoring for any notable changes in buyer activity or shifts among sellers.",
+    "Seller Amir": "Market remains steady with sellers holding positions and buyers clustered just below. I'm maintaining my ask at $96.26 and will continue to watch for any signs of movement or shifts in buyer urgency.",
+    "Seller Tara": "Market remains steady with sellers holding positions and buyer bids inching upward. I'm maintaining my ask at $96.25 and will continue monitoring for any significant shifts in buyer urgency or changes among sellers.",
+    "Seller Kit": "Market continues to show stability with sellers holding positions and buyers just below the spread. I'm maintaining my ask at $96.24 and will keep monitoring for any signs of increased buyer urgency or shifts in the order book.",
+    "Seller Max": "Market continues to show steady seller discipline at current ask levels, with buyers slowly raising bids. I'm maintaining my ask at $96.26 and will continue monitoring for any change in urgency or notable movement in the queues."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 13
+````json
+{
+  "round_number": 13,
+  "seller_asks": {
+    "Seller Tara": 96.25,
+    "Seller Max": 96.26,
+    "Seller Omar": 96.25,
+    "Seller Amir": 96.26,
+    "Seller Kit": 96.24
+  },
+  "buyer_bids": {
+    "Buyer Wei": 96.25,
+    "Buyer Theo": 96.26,
+    "Buyer Kai": 96.38,
+    "Buyer Zoe": 96.25,
+    "Buyer Eli": 96.28
+  },
+  "trades": [
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Kit",
+      "price": 96.31
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Omar",
+      "price": 96.27
+    },
+    {
+      "round_number": 13,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Tara",
+      "price": 96.25
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Market continues to show stability with sellers holding positions and buyers maintaining bids close to the spread. I'm matching the top buyer bids at $96.25 and will keep monitoring for any shifts in buyer urgency or notable changes among sellers.",
+    "Seller Max": "Market conditions remain steady with sellers maintaining disciplined prices and buyers gradually raising bids. I am holding my ask at $96.26 and will continue to monitor for any significant changes in urgency or movement in the order book.",
+    "Seller Omar": "Market remains steady with sellers clustered at current levels and buyers maintaining bids just below. I'm holding my ask at $96.25 and will continue to watch for any signs of increased buyer urgency or shifts among sellers.",
+    "Seller Amir": "Market stability persists with sellers holding firm in the current range and buyers slowly increasing bids. I'm maintaining my ask at $96.26 and will stay alert for any notable buyer moves or shifts in seller positioning.",
+    "Seller Kit": "Market remains steady with sellers holding positions and buyers just below the spread. I'm maintaining my ask at $96.24 and will keep monitoring for any signs of increased buyer urgency or shifts in the order book."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 14
+````json
+{
+  "round_number": 14,
+  "seller_asks": {
+    "Seller Tara": 96.25,
+    "Seller Omar": 96.25,
+    "Seller Amir": 96.24,
+    "Seller Kit": 96.24,
+    "Seller Max": 96.26
+  },
+  "buyer_bids": {
+    "Buyer Wei": 96.25,
+    "Buyer Eli": 96.29,
+    "Buyer Zoe": 96.26,
+    "Buyer Theo": 96.26,
+    "Buyer Kai": 96.4
+  },
+  "trades": [
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Amir",
+      "price": 96.32
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Kit",
+      "price": 96.27
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Omar",
+      "price": 96.25
+    },
+    {
+      "round_number": 14,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Tara",
+      "price": 96.25
+    }
+  ],
+  "seller_messages": {
+    "Seller Tara": "Market conditions remain stable with sellers holding disciplined positions and buyers maintaining bids at the top of the spread. I'm matching the highest buyer bids at $96.25 and will stay alert for any notable shifts as we approach the session's end.",
+    "Seller Omar": "Market conditions remain steady with sellers holding disciplined levels and buyers maintaining bids near the spread. I'm holding my ask at $96.25 and will keep monitoring for any signs of increased buyer urgency or notable shifts among sellers.",
+    "Seller Amir": "Market stability persists with sellers holding positions, but with the session nearing its end, I'll be closely watching for any signs of increased buyer urgency or notable changes among sellers.",
+    "Seller Kit": "Market continues to show stability with sellers maintaining disciplined asks and buyers holding bids just below the spread. I'm holding my ask at $96.24 and will keep monitoring for any signs of increased buyer action or shifts among sellers as we near the end.",
+    "Seller Max": "Market conditions remain steady with sellers holding disciplined positions and buyers continuing gradual bid increases. I'll maintain my ask at $96.26 and continue to monitor for any significant changes or buyer urgency as we near the close."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
+
+## Auction Results: Round 15
+````json
+{
+  "round_number": 15,
+  "seller_asks": {
+    "Seller Omar": 96.25,
+    "Seller Tara": 96.25,
+    "Seller Amir": 96.23,
+    "Seller Kit": 96.24,
+    "Seller Max": 96.26
+  },
+  "buyer_bids": {
+    "Buyer Kai": 96.41,
+    "Buyer Wei": 96.27,
+    "Buyer Zoe": 96.26,
+    "Buyer Eli": 96.29,
+    "Buyer Theo": 96.26
+  },
+  "trades": [
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Kai",
+      "seller_id": "Seller Amir",
+      "price": 96.32
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Eli",
+      "seller_id": "Seller Kit",
+      "price": 96.27
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Wei",
+      "seller_id": "Seller Omar",
+      "price": 96.26
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Zoe",
+      "seller_id": "Seller Tara",
+      "price": 96.25
+    },
+    {
+      "round_number": 15,
+      "buyer_id": "Buyer Theo",
+      "seller_id": "Seller Max",
+      "price": 96.26
+    }
+  ],
+  "seller_messages": {
+    "Seller Omar": "Market remains steady with sellers maintaining disciplined asks and buyers holding stable bids as we enter the final hour. I'll keep my ask at $96.25 and continue monitoring for any last-minute changes in buyer behavior.",
+    "Seller Tara": "Market stability has persisted into the final hour with disciplined selling and steady buyer participation. I'm matching the highest buyer bid at $96.25 to secure a last trade, and will keep monitoring for any last-minute shifts as the session concludes.",
+    "Seller Amir": "As we enter the final hour, I'll be maintaining a disciplined ask and closely watching for any last-minute shifts in buyer behavior. Wishing everyone a strong finish as the session concludes.",
+    "Seller Kit": "Market stability continues as we enter the final hour. Sellers remain disciplined at current levels and buyers are holding bids just below the spread. I'll maintain my ask and stay alert for any late-session moves.",
+    "Seller Max": "Market remains stable as we enter the final hour, with sellers holding disciplined asks and buyers incrementally increasing bids. I'll keep my ask at $96.26 and closely monitor for any last-minute changes in buyer behavior or shifts in the spread."
+  },
+  "buyer_messages": {},
+  "overseer_visible_messages": null
+}
+````
